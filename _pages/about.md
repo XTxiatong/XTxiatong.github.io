@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Department of Computer Science and Technology, at the University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Young Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor degree in electronic and information engineering from Wuhan University, China, in 2017.
+I am a PhD student at the Department of Computer Science and Technology, at the University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Young Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 Research Interests
 ======
 I am interested in data mining, machine learning, deep learning and all kind of artificial intelligence technologies which can imporve life quality and benifit human well-being. 
 
-In previously years, I mainly focused on mining mobile big data with regards to smarting App usage and human mobility to gain insights, deepen understanding of behaiour pattern, and develop accurate prediction models. 
+In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility to gain insights, deepen understanding of behaiour patterns, and develop accurate prediction models. 
 
-Currently, I am working on mobile health related [project](https://covid-19-sounds.org/en/). Specifically, it is designed to collect human sounds to set up machine learning model to help diagnosis and used as non-invassive, low-cost pre-screening tools.
+Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, it is designed to collect human sounds to set up machine learning models to help diagnosis and used as non-invassive, low-cost pre-screening tools.
 
 
 
