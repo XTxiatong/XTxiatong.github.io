@@ -1,7 +1,7 @@
 ---
 title: "Detecting Human Interaction Borders in City: The Shanghai Case"
 collection: publications
-permalink: /publication/ubicomp18
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2018
 venue: 'UbiComp/ISWC Adjunct'
 paperurl: 'http://XTxiatong.github.io/files/UbiComp_18.pdf'
