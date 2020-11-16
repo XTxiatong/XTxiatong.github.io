@@ -22,6 +22,19 @@ Work experience
   * Map Big Data Lab.
   * Spatial-temporal data mining and intelligent transportation
   
+Honors and Awards 
+======                                                                       
+*	National Undergraduate Student Scholarship of China, 2014 (8/400)
+*	National College Students Electronic Design Competition, First Prize in Hubei Province, 2015
+*	First-Class Scholarship of Wuhan University, 2016
+*	Intel Cup Embedded System Invitational Contest, National Third Prize, 2016
+*	Outstanding Graduate of Wuhan University, 2017 (1/400)
+*	Second-Class Scholarship of Tsinghua University, 2018 
+*	Rhino-Bird Elite of Tencent Inc., 2019
+*	National Graduate Student Scholarship of China, 2019
+*	Outstanding Master Thesis, 2020 (1/200)
+*	Outstanding Graduate of Tsinghua University, 2020 (1/200)
+
   
 Skills
 ======
@@ -39,13 +52,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 * Reviewer of UbiComp, TMC and TNSE
-* PC of AAAI and IJCAI
+* PC of AAAI, WWW and IJCAI
