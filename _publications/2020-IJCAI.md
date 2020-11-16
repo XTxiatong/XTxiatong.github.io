@@ -1,9 +1,0 @@
----
-title: "A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling"
-collection: publications
-permalink: /publication/2020-IJCAI
-excerpt: 'Feng J, Lin Z, Xia T, et al.'
-date: 2020
-venue: 'IJCAI2020'
----
-[PDF]('http://XTxiatong.github.io/files/IJCAI_20.pdf')
