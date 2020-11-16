@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,12 +15,14 @@ Education
 * M.S. in Electronics and Communication Engineering, Tsinghua University, 2020
 * Ph.D in Computer Science, the University of Cambridge, 2023 (expected)
 
+
 Work experience
 ======
 * April 2017 - Septemper 2020: Research intern
   * Tencent Inc.
   * Map Big Data Lab.
   * Spatial-temporal data mining and intelligent transportation
+  
   
 Honors and Awards 
 ======                                                                       
@@ -40,11 +42,13 @@ Skills
 ======
 * C, MATLAB, Python, Hadoop, Spark，Pytorch, Tensorflow
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Talks
 ======
