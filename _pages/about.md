@@ -18,5 +18,7 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
 
-
+News
+======
+A paper accepted by AAAI [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]
 
