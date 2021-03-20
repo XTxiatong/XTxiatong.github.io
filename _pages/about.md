@@ -28,6 +28,6 @@ Awards
 ======
 • Huawei Full PhD Scholarship, 2020-2023 \
 • Distingished Master Thesis Award, Chinese Institute of Electronics, 2021 \
-•	Outstanding Master Thesis of Qinghua University, 2020 \
+•	Outstanding Master Thesis of Tsinghua University, 2020 \
 •	Outstanding Graduate of Tsinghua University, 2020
 
