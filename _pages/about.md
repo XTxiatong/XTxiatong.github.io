@@ -18,14 +18,17 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
 
-A short video for my PhD topic [[here](http://XTxiatong.github.io/files/Xia_default.mp4)].
+A short video for my PhD topic [[here](http://XTxiatong.github.io/files/Xia_default.mp4)]. The main objective of my study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through human sounds, in order to achieve ubiquitous, affordable, portable daily respiratory illness screening, diagnosis, monitoring from home.
 
 News
 ======
-A paper accepted by AAAI [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]
+A paper accepted by INTERSPEECH2021 [[INTERSPEECH](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)]
+A one-page abstract accpected by MobiUK20201 [[MobiUK](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf)]
+A paper accepted by AAAI20201 [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]
 
 Awards
 ======
+• INTERSPEECH Travel Grant, 2021 \
 • Huawei Full PhD Scholarship, 2020-2023 \
 • Distingished Master Thesis Award, Chinese Institute of Electronics, 2021 \
 •	Outstanding Master Thesis of Tsinghua University, 2020 \
