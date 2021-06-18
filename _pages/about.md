@@ -22,10 +22,10 @@ A short video for my PhD topic [[here](http://XTxiatong.github.io/files/Xia_defa
 
 News
 ======
-A paper accepted by INTERSPEECH2021 [[INTERSPEECH](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)]
-A one-page abstract accpected by MobiUK20201 [[MobiUK](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf)]
-A paper accepted by AAAI20201 [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]
-
+A paper accepted by INTERSPEECH2021 [[INTERSPEECH](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)] \
+A one-page abstract accpected by MobiUK20201 [[MobiUK](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf)] \
+A paper accepted by AAAI20201 [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)] \
+ 
 Awards
 ======
 • INTERSPEECH Travel Grant, 2021 \
