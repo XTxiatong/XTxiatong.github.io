@@ -23,7 +23,7 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 News
 ======
 A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track[[paper](https://openreview.net/forum?id=9KArJb4r5ZQ)] \
-I have passed my first year viva and became a PhD candicate in the Univeristy of Cambridge! See my [[report]](http://XTxiatong.github.io/files/FirstYearReport.pdf). 
+I have passed my first year viva and became a PhD candicate in the Univeristy of Cambridge! See my [[report](http://XTxiatong.github.io/files/FirstYearReport.pdf)] \
 A paper accepted by INTERSPEECH2021 [[INTERSPEECH](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)] \
 A one-page abstract accpected by MobiUK20201 [[MobiUK](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf)] \
 A paper accepted by AAAI20201 [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]  
