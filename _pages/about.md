@@ -22,6 +22,7 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 News
 ======
+Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* accepted by Nature **npj Digital Medicine!** (2020-2021 IF=11.653) \
 A full-research paper accepted by IEEE BigData 2021 workshop BDA COVID-2021 \
 I feel very exicited to give my first in-person presentation in WOMEN@CL [[Talklet](https://talks.cam.ac.uk/talk/index/165256)] \
 A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track[[paper](https://openreview.net/forum?id=9KArJb4r5ZQ)] \
