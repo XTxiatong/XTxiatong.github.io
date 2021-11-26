@@ -12,7 +12,7 @@ I am a PhD student at the Department of Computer Science and Technology, at the 
 
 Research Interests
 ======
-I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can imporve life quality and benifit human well-being. 
+I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can improve life quality and benefit human well-being. 
 
 Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
 
