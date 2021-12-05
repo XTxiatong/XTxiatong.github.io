@@ -41,7 +41,7 @@ Awards
 
 Acedemic Service
 ======
-I am a reviewer of 
+I am a reviewer of \
 • IEEE TNSM, EPJ data science \
 •	AAAI 2020,2021 \
 • UbiComp 2019, 2020, 2021 \
