@@ -25,12 +25,12 @@ News
 • A [paper](https://arxiv.org/abs/2112.09196) was accepted at the sixth international workshop on health intelligence (colocated with AAAI 2022).  \
 • Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* accepted by **npj Digital Medicine!** (IF=11.653) \
 • A full-research paper accepted by IEEE BigData 2021 workshop BDA COVID-2021 \
-• I feel very exicited to give my first in-person presentation in WOMEN@CL [[Talklet](https://talks.cam.ac.uk/talk/index/165256)] \
-• A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track[[paper](https://openreview.net/forum?id=9KArJb4r5ZQ)] \
-• I have passed my first year viva and became a PhD candicate in the Univeristy of Cambridge! See my [[report](http://XTxiatong.github.io/files/FirstYearReport.pdf)] \
-• A paper accepted by INTERSPEECH2021 [[INTERSPEECH](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)] \
-• A one-page abstract accpected by MobiUK20201 [[MobiUK](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf)] \
-• A paper accepted by AAAI20201 [[AAAI](http://XTxiatong.github.io/files/AAAI_21.pdf)]  
+• I feel very exicited to give my first in-person presentation in WOMEN@CL [Talklet](https://talks.cam.ac.uk/talk/index/165256) \
+• A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track[paper](https://openreview.net/forum?id=9KArJb4r5ZQ) \
+• I have passed my first year viva and became a PhD candicate in the Univeristy of Cambridge! See my [report](http://XTxiatong.github.io/files/FirstYearReport.pdf) \
+• A paper accepted by [INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf) \
+• A one-page abstract accpected by [MobiUK20201](http://XTxiatong.github.io/files/MobiUK2021_uncertainty.pdf) \
+• A paper accepted by [AAAI20201](http://XTxiatong.github.io/files/AAAI_21.pdf)  
  
 Awards
 ======
