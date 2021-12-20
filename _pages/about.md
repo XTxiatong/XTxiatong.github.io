@@ -22,6 +22,7 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 News
 ======
+• A [paper](https://arxiv.org/abs/2112.09196) was accepted at the sixth international workshop on health intelligence (colocated with AAAI 2022).  \
 • Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* accepted by **npj Digital Medicine!** (IF=11.653) \
 • A full-research paper accepted by IEEE BigData 2021 workshop BDA COVID-2021 \
 • I feel very exicited to give my first in-person presentation in WOMEN@CL [[Talklet](https://talks.cam.ac.uk/talk/index/165256)] \
