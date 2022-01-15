@@ -12,18 +12,18 @@ I am a PhD student at the Department of Computer Science and Technology, at the 
 
 Research Interests
 ======
-I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can improve life quality and benefit human well-being. 
+I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can improve city life and benefit human well-being. 
 
-Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
+Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis COVID-19 [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
 
-A short video for my PhD topic [[here](http://XTxiatong.github.io/files/Xia_default.mp4)]. The main objective of my study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through human sounds, in order to achieve ubiquitous, affordable, portable daily respiratory illness screening, diagnosis, monitoring from home.
+A short video for my PhD topic can be found [[here](http://XTxiatong.github.io/files/Xia_default.mp4)]. The main objective of my study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through human sounds, in order to achieve ubiquitous, affordable, portable daily respiratory illness screening, diagnosis, monitoring from home.
 
 In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility to gain insights[[UbiComp2018](http://XTxiatong.github.io/files/UbiComp_18.pdf)][[TMC2019](http://XTxiatong.github.io/files/TMC_19.pdf)], deepen understanding of behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[WWW2019](http://XTxiatong.github.io/files/WWW_19.pdf)], and develop accurate prediction models[[PlosOne2019](http://XTxiatong.github.io/files/PLOS_19.pdf)][[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)]. 
 
 News
 ======
-• A [paper](https://arxiv.org/abs/2112.09196) was accepted at the sixth international workshop on health intelligence (colocated with AAAI 2022).  \
-• Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* accepted by **npj Digital Medicine!** (IF=11.653) \
+• A paper was accepted at the sixth international workshop on health intelligence (colocated with AAAI 2022)  \
+• Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF=11.653) \
 • A full-research paper accepted by IEEE BigData 2021 workshop BDA COVID-2021 \
 • I feel very exicited to give my first in-person presentation in WOMEN@CL [Talklet](https://talks.cam.ac.uk/talk/index/165256) \
 • A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ) \
@@ -43,7 +43,8 @@ Awards
 Acedemic Service
 ======
 I am a reviewer of \
-• IEEE TNSM, EPJ data science \
+• IEEE TNSM \
+• EPJ data science \
 •	AAAI 2020,2021 \
 • UbiComp 2019, 2020, 2021 \
 •	WWW 2020 \
