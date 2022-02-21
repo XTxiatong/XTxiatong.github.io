@@ -55,11 +55,11 @@ I am a reviewer of \
 
 Teaching
 ======
-I have also been a teaching assistant for the following undergraduate courses: \
+I have also been a teaching assistant for the following undergraduate courses: 
 
-Machine Learning & Real-World Data 2022(Part IA, Univarsity of Cambridge) \
-Foundation of Data Science 2021 (Part IA, Univeristy of cambridge) \
-AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) \
-AI in medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) 
+•  Machine Learning & Real-World Data 2022(Part IA, Univarsity of Cambridge) \
+•  Foundation of Data Science 2021 (Part IA, Univeristy of cambridge) \
+•  AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) \
+•  AI in medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) 
 
 
