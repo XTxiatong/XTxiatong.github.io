@@ -12,11 +12,11 @@ I am a PhD student at the Department of Computer Science and Technology, at the 
 
 Research Interests
 ======
-I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can improve city life and benefit human well-being. 
+I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can help improve city life and benefit human well-being. 
 
-Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help diagnosis COVID-19 [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
+Currently, I am working on a mobile health related [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invassive and low-cost pre-screening tool, to help pre-screen COVID-19 [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)].
 
-A short video for my PhD topic can be found [[here](http://XTxiatong.github.io/files/Xia_default.mp4)]. The main objective of my study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through human sounds, in order to achieve ubiquitous, affordable, portable daily respiratory illness screening, diagnosis, monitoring from home.
+A short video for my PhD topic can be found [[here](http://XTxiatong.github.io/files/Xia_default.mp4)]. The main objective of my study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through human sounds, in order to achieve ubiquitous, affordable, portable daily respiratory illness screening, diagnosis, monitoring from home. I am also interested in probabilistic machine learning, uncertainty estimation, and thier applications to build reabile automatic diagnosis systems. 
 
 In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility to gain insights[[UbiComp2018](http://XTxiatong.github.io/files/UbiComp_18.pdf)][[TMC2019](http://XTxiatong.github.io/files/TMC_19.pdf)], deepen understanding of behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[WWW2019](http://XTxiatong.github.io/files/WWW_19.pdf)], and develop accurate prediction models[[PlosOne2019](http://XTxiatong.github.io/files/PLOS_19.pdf)][[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)]. 
 
