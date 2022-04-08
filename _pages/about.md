@@ -24,6 +24,7 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 News
 ======
+• Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! 
 • Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF=11.653) \
 • I feel very exicited to give my first in-person presentation in WOMEN@CL [Talklet](https://talks.cam.ac.uk/talk/index/165256) \
 • A paper with large-scale dataset and compatitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ) \
@@ -44,7 +45,7 @@ Acedemic Service
 I am a reviewer of \
 • IEEE TNSM \
 • EPJ data science \
-and I also serve as a SPC for 
+and I also serve as a SPC for \
 •	AAAI 2020,2021 \
 • UbiComp 2019, 2020, 2021 \
 •	WWW 2020 \
