@@ -1,10 +1,10 @@
 ---
-title: "Exploring Automatic Diagnosis of COVID-19 from Crowdsourced Respiratory Sound Data"
+title: "Uncertainty-Aware COVID-19 Detection from Imbalanced Sound Data"
 collection: publications
-permalink: /publication/2020-12-01-KDD
-excerpt: 'Chloë Brown, Jagmohan Chauhan, Andreas Grammenos, Jing Han, Apinan Hasthanasombat, Dimitris Spathis, Tong Xia, Pietro Cicuta, Cecilia Mascolo'
-date: 2020-12-1
-venue: 'KDD'
+permalink: /publication/2021-9-1-INTERSPEECH
+excerpt: 'Tong Xia, Jing Han, Lorena Qendro, Cecilia Mascolo'
+date: 2021-9-1
+venue: 'INTERSPEECH'
 ---
-[[PDF](http://XTxiatong.github.io/files/KDD_20.pdf)]  [[Code](https://github.com/cam-mobsys/covid19-sounds-kdd20)]  [[Data](https://www.covid-19-sounds.org/en/blog/data_sharing.html)]
+
 
