@@ -14,7 +14,7 @@ Research Interests
 ======
 I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can help improve city life and benefit human well-being. 
 
-During the pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help test COVID-19 [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)]. Visit our website to know more about our [pubilications](https://www.covid-19-sounds.org/en/publications.html). 
+During the pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help test COVID-19 [[KDD2020](http://XTxiatong.github.io/files/KDD_20.pdf)]. Visit our website to know more about our [publications](https://www.covid-19-sounds.org/en/publications.html). 
 
 The main objective of my PhD study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through physiological signals like heart rate and sounds, in order to achieve ubiquitous, affordable, and portable daily illness screening, and diagnosis, monitoring from home. 
 By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnosis. 
