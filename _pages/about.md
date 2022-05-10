@@ -29,7 +29,7 @@ uncertainty estimation, and thier applications to build reabile automatic diagno
 
 News
 ======
-• I presented my work in [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Graduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
+• I presented my work in [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF=11.653) \
 • I feel very exicited to give my first in-person presentation in WOMEN@CL [Talklet](https://talks.cam.ac.uk/talk/index/165256) \
