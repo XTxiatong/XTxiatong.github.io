@@ -46,7 +46,7 @@ Awards
 •	Outstanding Master Thesis of Tsinghua University, 2020 \
 •	Outstanding Graduate of Tsinghua University, 2020
 
-Acedemic Service
+Academic Service
 ======
 I am a reviewer of \
 • IEEE TNSM \
@@ -64,9 +64,9 @@ Teaching
 ======
 I am also passionate about supervising and I have been a teaching assistant for the following undergraduate courses: 
 
-•  Artificial Intelligence 2022(Part IB, Univarsity of Cambridge) \
-•  Machine Learning & Real-World Data 2022(Part IA, Univarsity of Cambridge) \
-•  Foundation of Data Science 2021 (Part IA, Univeristy of cambridge) \
+•  Artificial Intelligence 2022(Part IB, University of Cambridge) \
+•  Machine Learning & Real-World Data 2022(Part IA, University of Cambridge) \
+•  Foundation of Data Science 2021 (Part IA, University of Cambridge) \
 •  AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) \
 •  AI in medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) 
 
