@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+> Genuis only means hard-working all one's life. 
+>                                         - Mendeleyev 
+-----
+
 Hi there! My name is Tong Xia, and I am a second-year PhD student in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 Research Interests
