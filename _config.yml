@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tong Xia"
-  avatar           : "xt.jpg"
+  avatar           : "/images/tong.png"
   bio              : "A computer science PhD student."
   location         : "Cambridge, UK"
   employer         :
