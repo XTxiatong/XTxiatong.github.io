@@ -8,7 +8,9 @@ main:
     url: /talks/    
 
   - title: "CV"
-    url: /cv/
+    url: /files/CV_TongXia_CS_2022_v2.pdf
+    
+    # url: /cv/
     
   #- title: "Teaching"
   #  url: /teaching/    
