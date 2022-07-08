@@ -11,7 +11,7 @@ redirect_from:
  
 *Genuis only means hard-working all one's life.*
 
-                                           *- Mendeleyev*
+                                           *--Mendeleyev*
  
  
  
