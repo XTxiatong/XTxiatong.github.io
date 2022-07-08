@@ -9,7 +9,7 @@ redirect_from:
 
 
  
-*Genuis only means hard-working all one's life. *
+*Genuis only means hard-working all one's life.*
 
                                            *- Mendeleyev*
  
