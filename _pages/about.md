@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Tong Xia"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,8 @@ redirect_from:
 
 
  
-*Genuis only means hard-working all one's life.*
-
-                                           *--Mendeleyev*
+>Genuis only means hard-working all one's life. 
+>                                               --Mendeleyev
  
  
  
