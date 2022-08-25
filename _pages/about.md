@@ -67,8 +67,9 @@ and I also serve as a SPC for \
 •	WWW 2020 \
 •	KDD 2019, 2021 \
 •	IJCAI 2021,2022 \
-•	AAAI 2021 \
 • ICASSP 2021
+
+I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair this year. 
 
 Teaching
 ======
