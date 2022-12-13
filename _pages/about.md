@@ -36,7 +36,7 @@ uncertainty estimation, and thier applications to build reabile automatic diagno
 News
 ======
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
-• **November 2022**: We are delighted that I and my teammate we got Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!
+• **November 2022**: We are delighted that I and my teammate we got Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
