@@ -22,7 +22,7 @@ I am interested in data mining, machine learning, deep learning and all kinds of
 
 During the coronavirus pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to know more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
 
-The main objective of my PhD study is the exploration and development of data-efficient, high-performance, and risk-aware automatic diagnosis systems through physiological signals like heart rate and sounds, in order to achieve ubiquitous, affordable, and portable daily illness screening, and diagnosis, monitoring from home. 
+The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like heart rate and sounds, in order to achieve ubiquitous, affordable, and portable daily pathological screening, and diagnosis, monitoring from home. 
 By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnosis. 
 I am also investigating decentralised model training techniques to allow privacy-preserving mobile health applications.
 
@@ -35,6 +35,7 @@ uncertainty estimation, and thier applications to build reabile automatic diagno
 
 News
 ======
+• **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, checkout the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
 • **November 2022**: We are delighted that I and my teammate we got Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
