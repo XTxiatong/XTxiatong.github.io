@@ -63,15 +63,15 @@ Awards
 Academic Service
 ======
 I am a reviewer of \
-• IEEE TNSM \
+• IEEE TNSM, TMC \
 • EPJ data science \
 and I also serve as a SPC for \
 •	AAAI 2020,2021 \
 • UbiComp 2019, 2020, 2021 \
 •	WWW 2020 \
 •	KDD 2019, 2021 \
-•	IJCAI 2021,2022 \
-• ICASSP 2021
+•	IJCAI 2021,2022, 2023 \
+• ICASSP 2022, 2023
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair this year. 
 
