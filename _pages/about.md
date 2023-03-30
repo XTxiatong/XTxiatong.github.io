@@ -29,7 +29,7 @@ I am also investigating decentralised model training techniques to allow privacy
 
 In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility. 
   - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
-  - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+  - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
 
  
 
