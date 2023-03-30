@@ -22,9 +22,10 @@ I am interested in data mining, machine learning, deep learning and all kinds of
 
 During the coronavirus pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to know more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
 
-The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sounds, in order to achieve ubiquitous, affordable, and non-invasive daily pathological screening, and diagnosis, monitoring from home. 
-By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnosis. 
-I am also investigating decentralised model training techniques to allow privacy-preserving mobile health applications.
+The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralised model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
+  -  Reliable and unbiased DL for health [[NPJ2022](https://www.nature.com/articles/s41746-021-00553-x)] 
+  -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)]
+  -  Decentrilised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
 
 
 In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility. 
