@@ -44,7 +44,6 @@ News
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
 • **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). \
 • **Sep. 2021**: I have passed my first-year viva and became a PhD candidate at the University of Cambridge! See my [report](http://XTxiatong.github.io/files/FirstYearReport.pdf). \
-• **May 2021**: A paper accepted by [INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf).
  
 Awards
 ======
