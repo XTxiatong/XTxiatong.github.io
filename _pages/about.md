@@ -14,7 +14,7 @@ redirect_from:
  
  
  
-Hi there! My name is Tong Xia, and I am a second-year PhD student in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+Hi there! My name is Tong Xia, and I am a third-year PhD student in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 Research Interests
 ======
@@ -22,16 +22,16 @@ I am interested in data mining, machine learning, deep learning and all kinds of
 
 During the coronavirus pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to know more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
 
-The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like heart rate and sounds, in order to achieve ubiquitous, affordable, and portable daily pathological screening, and diagnosis, monitoring from home. 
+The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sounds, in order to achieve ubiquitous, affordable, and non-invasive daily pathological screening, and diagnosis, monitoring from home. 
 By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnosis. 
 I am also investigating decentralised model training techniques to allow privacy-preserving mobile health applications.
 
-<!-- 
-In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility to gain insights[[UbiComp2018](http://XTxiatong.github.io/files/UbiComp_18.pdf)][[TMC2019](http://XTxiatong.github.io/files/TMC_19.pdf)], deepen understanding of behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[WWW2019](http://XTxiatong.github.io/files/WWW_19.pdf)], and develop accurate prediction models[[PlosOne2019](http://XTxiatong.github.io/files/PLOS_19.pdf)][[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)]. 
 
-A short video for my PhD topic can be found [[here](http://XTxiatong.github.io/files/Xia_default.mp4)].
-uncertainty estimation, and thier applications to build reabile automatic diagnosis systems. 
--->
+In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility. 
+  - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
+  - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+
+ 
 
 News
 ======
