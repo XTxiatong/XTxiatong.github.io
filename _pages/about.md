@@ -47,6 +47,8 @@ News
  
 Awards
 ======
+•	2022, 2nd POSTER AWARD in Precision Health Initiative Launch Symposium, Cambridge \
+•	2022, Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022) \
 •	2022, Best Postgraduate Poster in Oxbridge Women in Computer Science Conference \
 •	2022, COVID-19 Sounds project awarded as Better Future Award in Hall of Fame Awards, Cambridge \
 •	2021, ISCA INTERSPEECH Student Travel Grant \
