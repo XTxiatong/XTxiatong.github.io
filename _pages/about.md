@@ -18,17 +18,17 @@ Hi there! My name is Tong Xia, and I am a third-year PhD student in the Departme
 
 Research Interests
 ======
-I am interested in data mining, machine learning, deep learning and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
+I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
 
-During the coronavirus pandemic era, I have been working on a mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to know more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
+During the coronavirus pandemic era, I have been working on mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to know more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
 
-The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralised model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
+The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware, and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralized model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
   -  Reliable and unbiased DL for health [[NPJ2022](https://www.nature.com/articles/s41746-021-00553-x)] 
   -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)]
-  -  Decentrilised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
+  -  Decentralised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
 
 
-In previous years, I mainly focused on mining mobile big data with regards to smartphone App usage and human mobility. 
+In previous years, I mainly focused on mining mobile big data with regard to smartphone App usage and human mobility. 
   - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
   - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
 
@@ -36,9 +36,9 @@ In previous years, I mainly focused on mining mobile big data with regards to sm
 
 News
 ======
-• **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, checkout the [pre-print](https://arxiv.org/abs/2303.07067).\
+• **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
-• **November 2022**: We are delighted that I and my teammate we got Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
+• **November 2022**: We are delighted that I and my teammate got Third Place in lntelligent Medical Track in the 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
@@ -47,6 +47,7 @@ News
  
 Awards
 ======
+•	2023, Chinese Government Award for Outstanding Self-financed Students Abroad, UK \
 •	2022, 2nd POSTER AWARD in Precision Health Initiative Launch Symposium, Cambridge \
 •	2022, Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022) \
 •	2022, Best Postgraduate Poster in Oxbridge Women in Computer Science Conference \
