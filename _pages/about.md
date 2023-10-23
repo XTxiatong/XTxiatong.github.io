@@ -36,10 +36,11 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 
 News
 ======
-• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction. Also, she has been awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. 
+• **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
+• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction. Also, she has been awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. \
 • **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
-• **November 2022**: We are delighted that my teammate and I got Third Place in the Intelligent Medical Track in the 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
+• **Nov. 2022**: We are delighted that my teammate and I got Third Place in the Intelligent Medical Track in the 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
