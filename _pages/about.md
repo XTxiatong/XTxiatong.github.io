@@ -14,7 +14,7 @@ redirect_from:
  
  
  
-Hi there! My name is Tong Xia, and I am a third-year Ph.D. student in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+Hi there! My name is Tong Xia, and I am a finishing PhD student and research assistant in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 Research Interests
 ======
@@ -44,9 +44,8 @@ News
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
-• **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). \
-• **Sep. 2021**: I have passed my first-year viva and became a PhD candidate at the University of Cambridge! See my [report](http://XTxiatong.github.io/files/FirstYearReport.pdf). \
- 
+• **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). 
+
 Awards
 ======
 •	2023, Chinese Government Award for Outstanding Self-financed Students Abroad, UK \
@@ -55,7 +54,7 @@ Awards
 •	2022, Best Postgraduate Poster in Oxbridge Women in Computer Science Conference \
 •	2022, COVID-19 Sounds project awarded as Better Future Award in Hall of Fame Awards, Cambridge \
 •	2021, ISCA INTERSPEECH Student Travel Grant \
-•	2020, Oversea Ph.D. Full Scholarship for 2020-2023 \
+•	2020, Overseas PhD Full Scholarship for 2020-2023 \
 •	2020, Distinguished Master Thesis Award by the Chinese Institute of Electronics \
 •	2020, Outstanding Research Intern, Tencent, Beijing \
 •	2019, National Graduate Student Scholarship of China \
