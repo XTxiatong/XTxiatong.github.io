@@ -24,7 +24,7 @@ During the coronavirus pandemic, I worked on mobile health [project](https://cov
 
 The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware, and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralized model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
   -  Reliable and unbiased DL for health [[NPJ2022](https://www.nature.com/articles/s41746-021-00553-x)] 
-  -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)]
+  -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)][[JBHI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10423104)]
   -  Decentralised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
 
 
@@ -32,11 +32,13 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
   - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
   - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
 
- 
+ For more details, find my CV from here. 
 
 News
 ======
+• **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
+• **Sep. 2023**: I start a new role - research assitant in Cambridge! \
 • **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction. Also, she has been awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. \
 • **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
