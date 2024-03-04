@@ -35,6 +35,7 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
  
 News
 ======
+• **March 2024**: I gave a guest lecture on LLM for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 • **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
 • **Sep. 2023**: I start a new role - research assitant in Cambridge! \
