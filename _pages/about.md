@@ -23,18 +23,18 @@ Research directions
 
 **Deep learning for modelling behavioural and physiological data:**
 -	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
--	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[J-BHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
+-	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
 -	 Data mining and machine learning algorithms to model complex human behaviours like individual [[UbiComp'18](https://dl.acm.org/doi/abs/10.1145/3191778)] and collective  [[UbiComp'19](https://dl.acm.org/doi/abs/10.1145/3314417), [TKDD'21](https://dl.acm.org/doi/abs/10.1145/3451394), [TKDE'21](https://ieeexplore.ieee.org/abstract/document/8964408)] mobility patterns. 
 -	 Sequantial deep learning and graph neural networks for app usage behaiour modelling and prediction [[UbiComp'20](https://dl.acm.org/doi/abs/10.1145/3411817), [TIST'2020](https://dl.acm.org/doi/abs/10.1145/3408325)].
 
-**trustworthy AI for human-centric applications:**
+**Trustworthy AI for human-centric applications:**
 - Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
-- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
+- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
 -	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [arXiv'23](https://arxiv.org/abs/2312.02327)]. 
  
 **Big data and AI for public health:** 
 -	Big data techniques to understand the impact of urban environmental factors on public health [[Scientific data'23](https://www.nature.com/articles/s41597-023-02060-y)].
--	Mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions [[BigData21](https://ieeexplore.ieee.org/abstract/document/9671794), [KDD'22](https://dl.acm.org/doi/abs/10.1145/3534678.3539195)].
+-	Mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions [[BigData'21](https://ieeexplore.ieee.org/abstract/document/9671794), [KDD'22](https://dl.acm.org/doi/abs/10.1145/3534678.3539195)].
 
 
 <!-- 
