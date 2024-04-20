@@ -16,6 +16,8 @@ redirect_from:
  
 Hi there! My name is Tong Xia, and I am a finishing PhD student and start as a postdocal research assistant in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
+I am on the 2024 academic job market.
+
 Research directions
 ======
 
@@ -53,7 +55,8 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 
 News
 ======
-• **March 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
+• **March 2024**: I passed my PhD viva!\
+• **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 • **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
 • **Sep. 2023**: I start a new role - research assitant in Cambridge! \
