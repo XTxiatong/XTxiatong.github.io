@@ -21,10 +21,11 @@ I am on the 2024 academic job market.
 Research directions
 ======
 
-**Modelling behavioural and physiological data for personal health:**
--	My research primarily focuses on audio signals, which serve as digital biomarkers easily collected by ubiquitous mobile devices, for predicting respiratory and cardiovascular diseases. For the frist time, a sound-based COVID-19 detection model is develpped aiming at achieving scalable and affordable COVID-19 screening. Papers stemming from this research have been published in [NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ), among others.
--	 I also investigate the utilization of electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities.
--	 I also develop novel deep learning methods to model complex human behaviours, including mobility patterns and app usage, to better understand people’s health status.
+**Deep learning for modelling behavioural and physiological data:**
+-	Deep learning for audio signals to predicte respiratory and cardiovascular diseases, from early screening [[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to  longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
+-	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[J-BHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
+-	 Deep learning and machine learning methods to model complex human behaviours like individual and collective mobility patterns. 
+-	 Deep learning for app usage behaiour modelling and prediction [[TIST'2020](https://dl.acm.org/doi/abs/10.1145/3408325)].
 
 **Human-centric deep learning for trustworthy applications:**
 -	Human-centric AI in healthcare necessitates algorithms that are not only accurate but also responsible. I contribute several novel approaches that are data-efficient, uncertainty-aware, and privacy-preserving to develop high-performing machine learning models for real-world health diagnostics.
