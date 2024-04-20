@@ -18,6 +18,22 @@ Hi there! My name is Tong Xia, and I am a finishing PhD student and research ass
 
 Research Interests
 ======
+
+Modelling behavioural and physiological data for personal health
+•	My research primarily focuses on audio signals, which serve as digital biomarkers easily collected by ubiquitous mobile devices, for predicting respiratory and cardiovascular diseases. Papers stemming from this research have been published in NPJ Digital Medicine, JMIR, KDD, NeurIPS, ICASSP, INTERSPEECH, CinC, among others.
+•	Particularly, we have developed a sound-based COVID-19 detection model aimed at achieving scalable and affordable COVID-19 screening. 
+•	I also investigate the utilization of electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities.  I also develop novel deep learning methods to model complex human behaviours, including mobility patterns and app usage, to better understand people’s health status. 
+  Human-centric deep learning for trustworthy applications
+•	Human-centric AI in healthcare necessitates algorithms that are not only accurate but also responsible. I contribute several novel approaches that are data-efficient, uncertainty-aware, and privacy-preserving to develop high-performing machine learning models for real-world health diagnostics.
+•	I explore data generation methods such as Transformer and Diffusion models to enrich human-centric datasets.
+•	My research has been published in TKDE, JBHI, AAAI, UbiComp, ICASSP, among others.
+ Big data and AI for public health 
+•	My research leveraged big data techniques to understand the impact of urban environmental factors on public health.
+•	I analysed the effectiveness of mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions.
+•	Our research findings have been published in Scientific data, KDD, IEEE Big Data, UbiComp, SigSpatial, etc.
+
+
+<!-- 
 I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
 
 During the coronavirus pandemic, I worked on mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to learn more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
@@ -27,12 +43,12 @@ The main objective of my PhD study is the exploration and development of data-ef
   -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)][[JBHI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10423104)]
   -  Decentralised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
 
-
 In previous years, I mainly focused on mining mobile big data with regard to smartphone App usage and human mobility. 
   - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
   - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+-->
 
- 
+
 News
 ======
 • **March 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
