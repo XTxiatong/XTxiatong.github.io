@@ -14,7 +14,7 @@ redirect_from:
  
  
  
-Hi there! My name is Tong Xia, and I am a finishing PhD student and start as a postdocal research assistant in the Department of Computer Science and Technology, University of Cambridge, Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+Hi there! My name is Tong Xia, and I am a finishing PhD student about to start as a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 I am on the 2024 academic job market.
 
@@ -22,8 +22,8 @@ Research directions
 ======
 
 **Modelling behavioural and physiological data for personal health:**
--	My research primarily focuses on audio signals, which serve as digital biomarkers easily collected by ubiquitous mobile devices, for predicting respiratory and cardiovascular diseases. Papers stemming from this research have been published in NPJ Digital Medicine, JMIR, KDD, NeurIPS, ICASSP, INTERSPEECH, CinC, among others.
--	 Particularly, we have developed a sound-based COVID-19 detection model aimed at achieving scalable and affordable COVID-19 screening. I also investigate the utilization of electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities.
+-	My research primarily focuses on audio signals, which serve as digital biomarkers easily collected by ubiquitous mobile devices, for predicting respiratory and cardiovascular diseases. For the frist time, a sound-based COVID-19 detection model is develpped aiming at achieving scalable and affordable COVID-19 screening. Papers stemming from this research have been published in [NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ), among others.
+-	 I also investigate the utilization of electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities.
 -	 I also develop novel deep learning methods to model complex human behaviours, including mobility patterns and app usage, to better understand people’s health status.
 
 **Human-centric deep learning for trustworthy applications:**
