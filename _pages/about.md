@@ -27,15 +27,17 @@ Research directions
 -	 Data mining and machine learning algorithms to model complex human behaviours like individual [[UbiComp'18](https://dl.acm.org/doi/abs/10.1145/3191778)] and collective  [[UbiComp'19](https://dl.acm.org/doi/abs/10.1145/3314417), [TKDD'21](https://dl.acm.org/doi/abs/10.1145/3451394), [TKDE'21](https://ieeexplore.ieee.org/abstract/document/8964408)] mobility patterns. 
 -	 Sequantial deep learning and graph neural networks for app usage behaiour modelling and prediction [[UbiComp'20](https://dl.acm.org/doi/abs/10.1145/3411817), [TIST'2020](https://dl.acm.org/doi/abs/10.1145/3408325)].
 
-**Trustworthy AI for human-centric applications:**
-- Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
-- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
--	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [arXiv'23](https://arxiv.org/abs/2312.02327)]. 
- 
 **Big data and AI for public health:** 
 -	Big data techniques to understand the impact of urban environmental factors on public health [[Scientific data'23](https://www.nature.com/articles/s41597-023-02060-y)].
 -	Mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions [[BigData'21](https://ieeexplore.ieee.org/abstract/document/9671794), [KDD'22](https://dl.acm.org/doi/abs/10.1145/3534678.3539195)].
 
+**Trustworthy AI for human-centric applications:**
+- Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
+-	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [arXiv'23](https://arxiv.org/abs/2312.02327)]. 
+
+To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1400, and my h-index is 23.
+Through these projects, I have fostered close collaborations and connections beyond my academic affiliation with institutions such as the University of Birmingham, University of Southampton, University of Sydney, and others, as well as in the industry with companies like Nokia Bell Labs, Samsung AI Cambridge, Tencent, and Huawei Cambridge.
 
 <!-- 
 I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
