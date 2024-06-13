@@ -20,7 +20,7 @@ I am on the 2024 academic job market.
 
 Research directions
 ======
-<img src="images/area.png" alt="path" style="zoom:50%;" />
+<img src="../images/area.png" alt="path" style="zoom:50%;" />
  
 
 **Deep learning for modelling behavioural and physiological data:**
