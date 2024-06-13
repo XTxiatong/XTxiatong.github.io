@@ -21,7 +21,7 @@ I am on the 2024 academic job market.
 Research directions
 ======
 
-![images](https://github.com/XTxiatong/XTxiatong.github.io/tree/master/images/area.png)
+![images](images/area.png)
 
 **Deep learning for modelling behavioural and physiological data:**
 -	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
