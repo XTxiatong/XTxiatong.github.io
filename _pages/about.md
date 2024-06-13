@@ -21,6 +21,8 @@ I am on the 2024 academic job market.
 Research directions
 ======
 
+
+
 **Deep learning for modelling behavioural and physiological data:**
 -	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
 -	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
@@ -34,10 +36,10 @@ Research directions
 **Trustworthy AI for human-centric applications:**
 - Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
 - Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
--	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [arXiv'23](https://arxiv.org/abs/2312.02327)]. 
+-	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [KDD'24](https://arxiv.org/abs/2312.02327)]. 
 
-To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1400, and my h-index is 23.
-Through these projects, I have fostered close collaborations and connections beyond my academic affiliation with institutions such as the University of Birmingham, University of Southampton, University of Sydney, and others, as well as in the industry with companies like Nokia Bell Labs, Samsung AI Cambridge, Tencent, and Huawei Cambridge.
+To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1500, and my h-index is 18.
+Through these projects, I have fostered close collaborations and connections beyond my academic affiliation with institutions such as the University of Birmingham, University of Southampton, University of Sydney, and others, as well as in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
 
 <!-- 
 I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
@@ -57,11 +59,13 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 
 News
 ======
+• **May 2024**: Our paper *FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation* was accepted by KDD 2024.\
+• **May 2024**: I recived my PhD degree.\
 • **March 2024**: I passed my PhD viva!\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 • **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
-• **Sep. 2023**: I start a new role - research assitant in Cambridge! \
+• **Sep. 2023**: I start a new role - postdocal research assitant in Cambridge! \
 • **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction. Also, she has been awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. \
 • **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
