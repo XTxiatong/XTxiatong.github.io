@@ -39,7 +39,7 @@ Research directions
 -	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [KDD'24](https://arxiv.org/abs/2312.02327)]. 
 
 To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1500, and my h-index is 18.
-Through these projects, I have fostered close collaborations and connections beyond my academic affiliation with institutions such as the University of Birmingham, University of Southampton, University of Sydney, and others, as well as in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
+Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
 
 <!-- 
 I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
