@@ -59,7 +59,7 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 
 News
 ======
-• **July 2024**: I will give a talk at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges)
+• **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our paper *FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation* was accepted by KDD 2024.\
 • **May 2024**: I recived my PhD degree.\
 • **March 2024**: I passed my PhD viva!\
