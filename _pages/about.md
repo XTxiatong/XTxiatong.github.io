@@ -82,18 +82,9 @@ Awards
 Academic Service
 ======
 I am a reviewer of \
-• Lancet Regional Health-Europe \
-• Nature Scientific Data, Scientific Reports \
-• IEEE TNSM, TMC \
-• ACM TKDD \
-• EPJ data science \
+•	Lancet Regional Health-Europe, Nature Scientific Data/Scientific Reports,   IEEE TNSM/TMC, ACM TKDD, EPJ data science \
 and I also serve as an SPC for \
-•	AAAI 2020-2024 \
-• UbiComp 2019-2024 \
-• KDD 2019-2024 \
-•	IJCAI 2021-2023 \
-• ICASSP 2022, 2023 \
-•	CHIL 2023-2024 \
+•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024 \
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
 I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024 \
