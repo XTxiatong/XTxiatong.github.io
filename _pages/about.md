@@ -40,41 +40,6 @@ Research directions
 To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1600, and my h-index is 19.
 Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
 
- <!-- 
-**Deep learning for modelling behavioural and physiological data:**
--	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
--	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
--	 Data mining and machine learning algorithms to model complex human behaviours like individual [[UbiComp'18](https://dl.acm.org/doi/abs/10.1145/3191778)] and collective  [[UbiComp'19](https://dl.acm.org/doi/abs/10.1145/3314417), [TKDD'21](https://dl.acm.org/doi/abs/10.1145/3451394), [TKDE'21](https://ieeexplore.ieee.org/abstract/document/8964408)] mobility patterns. 
--	 Sequantial deep learning and graph neural networks for app usage behaiour modelling and prediction [[UbiComp'20](https://dl.acm.org/doi/abs/10.1145/3411817), [TIST'2020](https://dl.acm.org/doi/abs/10.1145/3408325)].
-
-**Big data and AI for public health:** 
--	Big data techniques to understand the impact of urban environmental factors on public health [[Scientific data'23](https://www.nature.com/articles/s41597-023-02060-y)].
--	Mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions [[BigData'21](https://ieeexplore.ieee.org/abstract/document/9671794), [KDD'22](https://dl.acm.org/doi/abs/10.1145/3534678.3539195)].
-
-**Trustworthy AI for human-centric applications:**
-- Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
-- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
--	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [KDD'24](https://arxiv.org/abs/2312.02327)]. 
-
-To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1500, and my h-index is 18.
-Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
--->
-
-
-<!-- 
-I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
-
-During the coronavirus pandemic, I worked on mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to learn more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
-
-The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware, and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralized model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
-  -  Reliable and unbiased DL for health [[NPJ2022](https://www.nature.com/articles/s41746-021-00553-x)] 
-  -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)][[JBHI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10423104)]
-  -  Decentralised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
-
-In previous years, I mainly focused on mining mobile big data with regard to smartphone App usage and human mobility. 
-  - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
-  - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
--->
 
 
 News
@@ -146,4 +111,35 @@ I am also passionate about supervising and I have been a teaching assistant for 
 •  AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) \
 •  AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture) 
 
+<!-- 
+**Deep learning for modelling behavioural and physiological data:**
+-	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
+-	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
+-	 Data mining and machine learning algorithms to model complex human behaviours like individual [[UbiComp'18](https://dl.acm.org/doi/abs/10.1145/3191778)] and collective  [[UbiComp'19](https://dl.acm.org/doi/abs/10.1145/3314417), [TKDD'21](https://dl.acm.org/doi/abs/10.1145/3451394), [TKDE'21](https://ieeexplore.ieee.org/abstract/document/8964408)] mobility patterns. 
+-	 Sequantial deep learning and graph neural networks for app usage behaiour modelling and prediction [[UbiComp'20](https://dl.acm.org/doi/abs/10.1145/3411817), [TIST'2020](https://dl.acm.org/doi/abs/10.1145/3408325)].
 
+**Big data and AI for public health:** 
+-	Big data techniques to understand the impact of urban environmental factors on public health [[Scientific data'23](https://www.nature.com/articles/s41597-023-02060-y)].
+-	Mobility intervention strategies for pandemic control and devising state-of-the-art intelligent interventions [[BigData'21](https://ieeexplore.ieee.org/abstract/document/9671794), [KDD'22](https://dl.acm.org/doi/abs/10.1145/3534678.3539195)].
+
+**Trustworthy AI for human-centric applications:**
+- Data-efficient transformer neural network for humman mobility data generation [[AAAI'21](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+- Uncertainty quantification for safty-critial health applications [[INTERSPEECH'21](https://www.isca-archive.org/interspeech_2021/xia21_interspeech.pdf), [CinC'22](https://ieeexplore.ieee.org/abstract/document/10081868),[TKDD'23](https://arxiv.org/abs/2312.02327), [JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)]. 
+-	Decentrialized and privacy-preserving machine learning models for real-world applications [[ICASSP'21](https://ieeexplore.ieee.org/abstract/document/10096427), [KDD'24](https://arxiv.org/abs/2312.02327)]. 
+
+To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1500, and my h-index is 18.
+Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
+
+I am interested in data mining, machine learning, deep learning, and all kinds of artificial intelligence technologies which can help improve public health and benefit human well-being. 
+
+During the coronavirus pandemic, I worked on mobile health [project](https://covid-19-sounds.org/en/). Specifically, we collect human sounds to set up machine learning models, as a non-invasive and low-cost pre-screening tool, to help screen COVID-19. Visit our website to learn more about our [findings](https://www.covid-19-sounds.org/en/publications.html). 
+
+The main objective of my PhD study is the exploration and development of data-efficient, high-performance, risk-aware, and privacy-preserving diagnostic systems through physiological signals like respiratory and heart sound, to achieve ubiquitous, affordable, and non-invasive daily pathological screening, diagnosis, and monitoring from home. By harnessing the power of small data learning and probabilistic machine learning, I aim to propose novel solutions for the data imbalance and uncertainty estimation obstacles when applying machine learning to reliable health diagnoses. I am also investigating decentralized model training techniques to allow privacy-preserving mobile health applications. A brief map of my research:
+  -  Reliable and unbiased DL for health [[NPJ2022](https://www.nature.com/articles/s41746-021-00553-x)] 
+  -  Uncertainty quantification for health diagnostics [[INTERSPEECH2021](http://XTxiatong.github.io/files/InterSpeech2021_COVID_Ensemble.pdf)][[TSRML2022](https://openreview.net/forum?id=Nr1RDmAx-Qm)][[JBHI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10423104)]
+  -  Decentralised mobile health model training [[ICASSP2023](https://arxiv.org/abs/2303.07067)]
+
+In previous years, I mainly focused on mining mobile big data with regard to smartphone App usage and human mobility. 
+  - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
+  - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+-->
