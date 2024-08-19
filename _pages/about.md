@@ -18,10 +18,11 @@ Hi there! My name is Tong Xia, and I am a finishing PhD student about to start a
 
 **I am currently on the academic job market for 2024.**
 
-Research directions
-======
+
 <img src="../images/area.png" alt="path" style="zoom:40%;" />
 
+Research directions
+======
 **Deep learning for behavioural and physiological data:**
 -	Audio-based respiratory and cardiovascular diseases prediction, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
 -	 Electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormality detection [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)] and report generation (on-going).
@@ -39,7 +40,6 @@ Research directions
 
 To date, I have published over 50 peer-reviewed papers, including 9 in top-tier journals and 13 at CCF A-level conferences. My Google Scholar citations exceed 1600, and my h-index is 19.
 Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
-
 
 
 News
@@ -112,6 +112,7 @@ I am also passionate about supervising and I have been a teaching assistant for 
 •  AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture) 
 
 <!-- 
+
 **Deep learning for modelling behavioural and physiological data:**
 -	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
 -	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
