@@ -41,7 +41,6 @@ To date, I have published over 50 peer-reviewed papers, including 9 in top-tier 
 Through these projects, I have fostered close collaborations and connections in the industry with companies like Nokia Bell Labs, Tencent, and Huawei Cambridge.
 
  <!-- 
-
 **Deep learning for modelling behavioural and physiological data:**
 -	Deep learning for audio signals to predict respiratory and cardiovascular diseases, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
 -	 Deep learning for electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormalities [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)].
