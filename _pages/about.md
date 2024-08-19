@@ -20,7 +20,7 @@ Hi there! My name is Tong Xia, and I am a finishing PhD student about to start a
 
 Research directions
 ======
-<img src="../images/area.png" alt="path" style="zoom:50%;" />
+<img src="../images/area.png" alt="path" style="zoom:40%;" />
 
 **Deep learning for behavioural and physiological data:**
 -	Audio-based respiratory and cardiovascular diseases prediction, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
@@ -79,7 +79,7 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 
 News
 ======
-**August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on  arXiv [Pdf]([https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges](https://arxiv.org/abs/2406.16148)) [Github](https://github.com/evelyn0414/OPERA)!\
+**August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)!\
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our paper *FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation* was accepted by KDD 2024.\
 • **May 2024**: I recived my PhD degree.\
