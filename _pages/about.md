@@ -116,17 +116,25 @@ Awards
 Academic Service
 ======
 I am a reviewer of \
+• Lancet Regional Health-Europe \
+• Nature Scientific Data, Scientific Reports \
 • IEEE TNSM, TMC \
+• ACM TKDD \
 • EPJ data science \
 and I also serve as an SPC for \
-•	AAAI 2020,2021 \
-• UbiComp 2019, 2020, 2021 \
-•	WWW 2020 \
-•	KDD 2019, 2021 \
-•	IJCAI 2021,2022, 2023 \
-• ICASSP 2022, 2023
+•	AAAI 2020-2024 \
+• UbiComp 2019-2024 \
+• KDD 2019-2024 \
+•	IJCAI 2021-2023 \
+• ICASSP 2022, 2023 \
+•	CHIL 2023-2024 \
 
-I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair this year. 
+I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
+I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024 \
+
+Non-Academic Services
+======
+Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
 
 Teaching
 ======
