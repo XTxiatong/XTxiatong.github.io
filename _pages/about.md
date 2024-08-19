@@ -44,17 +44,18 @@ Through these projects, I have fostered close collaborations and connections in 
 
 News
 ======
+**August 2024**: I will be in Barcelona for KDD from the 25th to the 30th. You're welcome to join me for a coffee chat.
 **August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)!\
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
-• **May 2024**: Our paper *FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation* was accepted by KDD 2024.\
+• **May 2024**: Our FLea paper was accepted by KDD 2024.\
 • **May 2024**: I recived my PhD degree.\
 • **March 2024**: I passed my PhD viva!\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 • **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
 • **Sep. 2023**: I start a new role - postdocal research assitant in Cambridge! \
-• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction. Also, she has been awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. \
-• **March 2023**: My paper *Cross-device Federated Learning for Mobile Health Diagnostics: A First Study on COVID-19 Detection* was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
+• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction and was awarded a commended dissertation award by the department. \
+• **March 2023**: My paper was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
 • **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
 • **Nov. 2022**: We are delighted that my teammate and I got Third Place in the Intelligent Medical Track in the 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
