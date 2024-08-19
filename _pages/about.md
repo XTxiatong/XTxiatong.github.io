@@ -16,7 +16,7 @@ redirect_from:
  
 Hi there! My name is Tong Xia, and I am a finishing PhD student about to start as a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-I am on the 2024 academic job market.
+**I am currently on the academic job market for 2024.**
 
 Research directions
 ======
