@@ -22,11 +22,11 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 
 Research directions
 ======
-Machine learning with its applications to health: \\
-  •	Modelling audio for respiratory health prediction \\
-  •	SSL and LLM powered generalized ML for health \\
-  •	Uncertainty quantifcation for health applications \\
-  •	Decentralized ML for health data \\
+Machine learning with its applications to health: \
+  •	Modelling audio for respiratory health prediction \
+  •	SSL and LLM powered generalized ML for health \
+  •	Uncertainty quantifcation for health applications \
+  •	Decentralized ML for health data \
   
 
 News
