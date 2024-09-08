@@ -18,7 +18,6 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 **I am currently on the academic job market for 2024.**
 
 
-<img src="../images/area.png" alt="path" style="zoom:40%;" />
 
 Research directions
 ======
@@ -26,7 +25,7 @@ Machine learning with its applications to health: \
   •	Modelling audio for respiratory health prediction \
   •	SSL and LLM powered generalized ML for health \
   •	Uncertainty quantifcation for health applications \
-  •	Decentralized ML for health data \
+  •	Decentralized ML for health data  
   
 
 News
@@ -92,6 +91,9 @@ I am also passionate about supervising and I have been a teaching assistant for 
 •  AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture) 
 
 <!-- 
+
+<img src="../images/area.png" alt="path" style="zoom:40%;" />
+
 **Deep learning for behavioural and physiological data:**
 -	Audio-based respiratory and cardiovascular diseases prediction, from early screening [[KDD'20](https://dl.acm.org/doi/pdf/10.1145/3394486.3412865),[NPJ Digital Medicine'22](https://www.nature.com/articles/s41746-021-00553-x), [NeurIPS'21](https://openreview.net/pdf?id=9KArJb4r5ZQ)] to longitudinal minitoring [[JMIR'22](https://www.jmir.org/2022/6/e37004/), [KDD'23](https://dl.acm.org/doi/pdf/10.1145/3580305.3599792)]
 -	 Electrocardiogram (ECG) data, particularly those collected by mobile devices, for detecting heart abnormality detection [[JBHI'24](https://ieeexplore.ieee.org/abstract/document/10423104)] and report generation (on-going).
