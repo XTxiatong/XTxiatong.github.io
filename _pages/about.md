@@ -21,7 +21,7 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 
 Research directions
 ======
-Machine learning with its applications to health: \
+**Machine learning with its applications to health:** \
   •	Modelling audio for respiratory health prediction \
   •	SSL and LLM powered generalized ML for health \
   •	Uncertainty quantifcation for health applications \
@@ -30,8 +30,8 @@ Machine learning with its applications to health: \
 
 News
 ======
-**September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean's Forum.  \\
-**August 2024**: I will be in Barcelona for KDD from the 25th to the 30th. You're welcome to join me for a coffee chat. \\
+**September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean's Forum.  \
+**August 2024**: I will be in Barcelona for KDD from the 25th to the 30th. You're welcome to join me for a coffee chat. \
 **August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)!\
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024.\
