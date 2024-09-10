@@ -26,7 +26,7 @@ My research focuses on health data science and machine learning for heart-relate
 
 News
 ======
-• **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean's Forum.  \
+• **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming [Asian Dean's Forum](https://risingstarsasia.org/about.php).  \
 • **August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)! Building on this, we also developed *RespLLM*, an audio-text unified framework for health diagnosis. \
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024.\
