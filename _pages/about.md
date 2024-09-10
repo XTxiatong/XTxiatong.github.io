@@ -21,29 +21,20 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 
 Research directions
 ======
-**Machine learning with its applications to health:** \
-  •	Modelling audio for respiratory health prediction \
-  •	SSL and LLM powered generalized ML for health \
-  •	Uncertainty quantifcation for health applications \
-  •	Decentralized ML for health data  
+My research focuses on health data science and machine learning for heart-related applications. I have been working in the following areas: modeling audio for ubiquitous respiratory and cardiac health monitoring, SSL and LLM-powered generalized machine learning for healthcare, uncertainty quantification for safety-critical health applications, and decentralized machine learning for privacy-sensitive health data.
   
 
 News
 ======
 **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean's Forum.  \
-**August 2024**: I will be in Barcelona for KDD from the 25th to the 30th. You're welcome to join me for a coffee chat. \
-**August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)!\
+**August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)! Building on this, we also developed *RespLLM*, an audio-text unified framework for health diagnosis. \
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024.\
-• **May 2024**: I recived my PhD degree.\
-• **March 2024**: I passed my PhD viva!\
+• **May 2024**: I recived my PhD degree, and start a new role in Cambridge. I am now a postdoc researcher.\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
-• **Jan. 2024**: I have submitted my PhD Thesis! \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
-• **Sep. 2023**: I start a new role - postdocal research assitant in Cambridge! \
-• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction and was awarded a commended dissertation award by the department. \
+• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction and was awarded a commended dissertation award by the department.\
 • **March 2023**: My paper was accepted by IEEE ICASSP, check out the [pre-print](https://arxiv.org/abs/2303.07067).\
-• **December 2022**: Welcome to our [poster - Hybrid-EDL](https://neurips.cc/virtual/2022/workshop/49959) at Workshop on Trustworthy and Socially Responsible Machine Learning, NeurIPS 2022.\
 • **Nov. 2022**: We are delighted that my teammate and I got Third Place in the Intelligent Medical Track in the 2022 World Privacy-Preserving Computing Competition (WPPCC 2022)!\
 • **May 2022**: I presented my work at [Oxbridge Women in CS conference](https://womencs.com) and I was awarded a *Best Postgraduate Poster Prize* [Poster](http://XTxiatong.github.io/files/conceptualizingcobalt_36x48.pdf).  
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
