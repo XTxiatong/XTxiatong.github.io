@@ -35,7 +35,7 @@ News
 • **May 2024**: I recived my PhD degree, and start a new role in Cambridge. I am now a postdoc researcher.\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 • **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
-• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction and was awarded a commended dissertation award by the department.\ 
+• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated from Cambridge with distinction and was awarded a commended dissertation award by the department. \ 
 • **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
 • **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
 • **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). 
