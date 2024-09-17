@@ -21,8 +21,12 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 
 Research directions
 ======
-My research focuses on health data science and machine learning for heart-related applications. I have been working in the following areas: modeling audio for ubiquitous respiratory and cardiac health monitoring, SSL and LLM-powered generalized machine learning for healthcare, uncertainty quantification for safety-critical health applications, and decentralized machine learning for privacy-sensitive health data.
-
+My research focuses on health data science and machine learning for health-related applications. I have been working in the following areas: 
+**Precision health:** 
+1) modeling audio for ubiquitous respiratory and cardiac health monitoring,
+2) SSL and LLM-powered generalized machine learning for healthcare,
+3) uncertainty quantification for safety-critical health applications, and decentralized machine learning for privacy-sensitive health data.
+**Public health**
 I am passionate about using AI and machine learning to build a better future, particularly in the health sector. I hope my research can enhance efficiency, accessibility, and affordability in healthcare. 
   
 
