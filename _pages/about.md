@@ -24,13 +24,14 @@ Research directions
 My research focuses on health data science and machine learning for health-related applications. I have been working in the following areas: 
 
 **Precision health:** 
-1) Modeling audio for personal respiratory and cardiac health monitoring 
-2) SSL and LLM-powered generalizable machine learning for biosignals (e.g., body sounds, ECGs)
-3) Reliable (uncertianty-aware) and decentralised (federated learning) deep learning for physiological data
+1. Modeling audio for personal respiratory and cardiac health screening
+2. SSL and LLM-powered generalizable machine learning for biosignals (e.g., body sounds, ECGs)
+3. Reliable (uncertainty-aware) and decentralized (federated learning) deep learning for physiological data
    
 **Public health:**
-1) ddd
-2) cshdnks
+1. Citizen mobility modeling and intervention strategy to control pandemics
+2. Correlation and causality analysis of population mobility and health inequity
+3. Remote sensing for urban health
 
    
 I am passionate about using AI and machine learning to build a better future, particularly in the health sector. I hope my research can enhance efficiency, accessibility, and affordability in healthcare. 
