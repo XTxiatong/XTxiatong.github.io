@@ -22,11 +22,17 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
 Research directions
 ======
 My research focuses on health data science and machine learning for health-related applications. I have been working in the following areas: 
+
 **Precision health:** 
-1) modeling audio for ubiquitous respiratory and cardiac health monitoring,
-2) SSL and LLM-powered generalized machine learning for healthcare,
-3) uncertainty quantification for safety-critical health applications, and decentralized machine learning for privacy-sensitive health data.
-**Public health**
+1) Modeling audio for personal respiratory and cardiac health monitoring 
+2) SSL and LLM-powered generalizable machine learning for biosignals (e.g., body sounds, ECGs)
+3) Reliable (uncertianty-aware) and decentralised (federated learning) deep learning for physiological data
+   
+**Public health:**
+1) ddd
+2) cshdnks
+
+   
 I am passionate about using AI and machine learning to build a better future, particularly in the health sector. I hope my research can enhance efficiency, accessibility, and affordability in healthcare. 
   
 
@@ -65,10 +71,10 @@ Academic Service
 I am a reviewer of \
 •	Lancet Regional Health-Europe, Nature Scientific Data/Scientific Reports,   IEEE TNSM/TMC, ACM TKDD, EPJ data science \
 and I also serve as an SPC for \
-•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024 \
+•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024  
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
-I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024 \
+I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024  
 
 Non-Academic Services
 ======
