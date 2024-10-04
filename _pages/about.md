@@ -24,8 +24,8 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 
 News
 ======
+• **September 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is accepted by Neurips dataset and benchmark track 2024 [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)! Building on this, we also developed *RespLLM*, an audio-text unified framework for health diagnosis. \
 • **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming [Asian Dean's Forum](https://risingstarsasia.org/about.php).  \
-• **August 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is on arXiv [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)! Building on this, we also developed *RespLLM*, an audio-text unified framework for health diagnosis. \
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024. See you in Barcelona!\
 • **May 2024**: I recived my PhD degree, and start a new role in Cambridge. I am now a postdoc researcher.\
@@ -55,9 +55,9 @@ Awards
 Academic Service
 ======
 I am a reviewer of \
-•	Lancet Regional Health-Europe, Nature Scientific Data/Scientific Reports,   IEEE TNSM/TMC, ACM TKDD, EPJ data science \
+•	Lancet Regional Health-Europe, Nature Scientific Data, Nature Scientific Reports,  IEEE TNSM, IEEE TMC, ACM TKDD, EPJ data science \
 and I also serve as an SPC for \
-•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024  
+•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ICLR 2024
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
 I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024  
