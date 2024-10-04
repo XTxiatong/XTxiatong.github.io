@@ -14,27 +14,12 @@ redirect_from:
  
  
 Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master's degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor's degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+ 
+My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.
 
-**I am currently on the academic job market for 2024.**
+Key areas of interest include respiratory audio, ECG, mobility, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
 
-
-
-Research directions
-======
-My research focuses on health data science and machine learning for health-related applications. I have been working in the following areas: 
-
-**Precision health:** 
-1. Modeling audio for personal respiratory and cardiac health screening
-2. SSL and LLM-powered generalizable machine learning for biosignals (e.g., body sounds, ECGs)
-3. Reliable (uncertainty-aware) and decentralized (federated learning) deep learning for physiological data
-   
-**Public health:**
-1. Citizen mobility modeling and intervention strategy to control pandemics
-2. Correlation and causality analysis of population mobility and health inequity
-3. Remote sensing for urban health
-
-   
-I am passionate about using AI and machine learning to build a better future, particularly in the health sector. I hope my research can enhance efficiency, accessibility, and affordability in healthcare. 
+I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
   
 
 News
@@ -145,4 +130,16 @@ The main objective of my PhD study is the exploration and development of data-ef
 In previous years, I mainly focused on mining mobile big data with regard to smartphone App usage and human mobility. 
   - Deepening understanding on individual&population behaiour patterns [[UbiComp2019](http://XTxiatong.github.io/files/UbiComp_19.pdf)][[TKDE2020](https://www.computer.org/csdl/journal/tk/2021/10/08964408/1gLZIVCnOWA)];
   - Developping accurate prediction models[[TIST2020](http://XTxiatong.github.io/files/TIST_20.pdf)][[UbiComp2020](http://XTxiatong.github.io/files/UbiComp_20.pdf)] [[TKDD2021](https://dl.acm.org/doi/abs/10.1145/3451394)] [[AAAI2021](https://ojs.aaai.org/index.php/AAAI/article/view/16577)]. 
+
+  **Precision health:** 
+1. Modeling audio for personal respiratory and cardiac health screening
+2. SSL and LLM-powered generalizable machine learning for biosignals (e.g., body sounds, ECGs)
+3. Reliable (uncertainty-aware) and decentralized (federated learning) deep learning for physiological data
+   
+**Public health:**
+1. Citizen mobility modeling and intervention strategy to control pandemics
+2. Correlation and causality analysis of population mobility and health inequity
+3. Remote sensing for urban health
+
+   
 -->
