@@ -24,7 +24,8 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 
 News
 ======
-• **September 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is accepted by Neurips dataset and benchmark track 2024 [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)! Building on this, we also developed *RespLLM*, an audio-text unified framework for health diagnosis. \
+• **October 2024**: Our pioneering work on leveraging LLMs for understanding [audio](https://arxiv.org/pdf/2410.05361) and [ECGs](https://arxiv.org/pdf/2409.08788) for healthcare will be presented at the NeurIPS 2025 workshop. \
+• **October 2024**: Our work *Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking* is accepted by Neurips dataset and benchmark track 2024 [pdf](https://arxiv.org/abs/2406.16148) [Github](https://github.com/evelyn0414/OPERA)!  \
 • **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming [Asian Dean's Forum](https://risingstarsasia.org/about.php).  \
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024. See you in Barcelona!\
