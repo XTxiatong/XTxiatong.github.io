@@ -79,9 +79,9 @@ I am also passionate about supervising and I have been a teaching assistant for 
 
 Mentoring
 ======
-I enjoy collaborating with PhD and thesis students, usually as part of an internship in our lab. Here are some recent research projects I supervised:
-•  Yuwei Evelyn Zhang  (University of Cambridge), MPhil dissertation: Exploring uncertainty quantification in federated learning for healthcare, 2022. This student was awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science \
-•  Alex Wang (University of Cambridge), Part II dissertation: A holistic evaluation of the quality of uncertainty from Bayesian model ensemble in federated learning, 2022   \
+I enjoy collaborating with PhD and thesis students, usually as part of an internship in our lab. Here are some recent research projects I supervised: \
+•  Yuwei Evelyn Zhang  (University of Cambridge), MPhil dissertation: Exploring uncertainty quantification in federated learning for healthcare, 2022. This student was awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science. \
+•  Alex Wang (University of Cambridge), Part II dissertation: A holistic evaluation of the quality of uncertainty from Bayesian model ensemble in federated learning, 2022   
 
 
 Non-Academic Services
