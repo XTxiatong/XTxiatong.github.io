@@ -33,7 +33,8 @@ News
 
 Awards
 ======
-•	2023, Chinese Government Award for Outstanding Self-financed Students Abroad, UK \
+•	2024, Rising Star in Women in Engineering at the Asian Dean's Forum, Singapore  \
+•	2023, Chinese Government Award for Outstanding Self-financed Students Abroad (650 awards globally), UK \
 •	2022, 2nd POSTER AWARD in Precision Health Initiative Launch Symposium, Cambridge \
 •	2022, Third Place of lntelligent Medical Track in 2022 World Privacy-Preserving Computing Competition (WPPCC 2022) \
 •	2022, Best Postgraduate Poster in Oxbridge Women in Computer Science Conference \
@@ -49,14 +50,16 @@ Awards
 Press
 ======
 
-My reserch has been featured by many presses such as: Cambridge University  [(1)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(2)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(3)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(4)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), Financial Times, The Times, Forbes, Slate, Huffington Post, DailyMail, ITV, IEEE Spectrum, TheNextWeb, STAT, EPFL, TheScientist, The Register, KDnuggets, NPR/WBUR, Royal Society of Biology, Lancet Digital Health, Psychology Today, El Pais, RAI, Corriere della Sera, Focus, DerStandard
+Audio AI for COVID-19: Cambridge University  [(1)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(2)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(3)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(4)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436),   [新智元]（https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g) 
+
+Trustworthy AI:  
 
 Academic Service
 ======
 I am a reviewer of \
 •	Lancet Regional Health-Europe, Nature Scientific Data, Nature Scientific Reports,  IEEE TNSM, IEEE TMC, ACM TKDD, EPJ data science \
 and I also serve as an SPC for \
-•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ICLR 2024
+•	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ML4H 2024
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
 I am co-organizing [Mobile and Wearable Health Seminar Series](https://talks.cam.ac.uk/show/archive/172414), University of Cambridge, 2023-2024  
