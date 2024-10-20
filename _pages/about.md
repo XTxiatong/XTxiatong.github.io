@@ -50,9 +50,11 @@ Awards
 Press
 ======
 
-Audio AI for health: Cambridge University  [(1)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(2)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(3)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(4)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436),   [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g).\ 
-Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw).\
-Trustworthy AI:  [AI TIMER](https://mp.weixin.qq.com/s/s3ZJuodSNLo1X3IdqtFmMA), [智隐数据星图](https://mp.weixin.qq.com/s/-1vFAxFLrps9K_ss9Mc3BQ).
+Audio AI for health: Cambridge University  [(1)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(2)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(3)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(4)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436),   [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g).
+
+Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw)
+
+Trustworthy AI:  [AI TIMER](https://mp.weixin.qq.com/s/s3ZJuodSNLo1X3IdqtFmMA), [智隐数据星图](https://mp.weixin.qq.com/s/-1vFAxFLrps9K_ss9Mc3BQ)
 
 Academic Service
 ======
