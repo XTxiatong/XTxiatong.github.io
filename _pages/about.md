@@ -29,7 +29,6 @@ News
 • **September 2024**: I have been nominated as a Rising Star in Women in Engineering at the upcoming [Asian Dean's Forum](https://risingstarsasia.org/about.php).  \
 • **July 2024**: I gave a seminar at City University of Hong Kong [link](https://www.sdsc.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges).\
 • **May 2024**: Our FLea paper was accepted by KDD 2024. See you in Barcelona!\
-• **May 2024**: I recived my PhD degree, and start a new role in Cambridge. I am now a postdoc researcher.\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
 
 
