@@ -31,11 +31,7 @@ News
 • **May 2024**: Our FLea paper was accepted by KDD 2024. See you in Barcelona!\
 • **May 2024**: I recived my PhD degree, and start a new role in Cambridge. I am now a postdoc researcher.\
 • **Feb. 2024**: I gave a guest lecture on Generative AI for mobiel health, check from here [pdf](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) \
-• **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
-• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated with distinction and was awarded a commended dissertation award by the department. \
-• **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
-• **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
-• **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). 
+
 
 Awards
 ======
@@ -52,6 +48,10 @@ Awards
 •	2016, Intel Cup Embedded System Invitational Contest, National Third Prize \
 •	2014, National Undergraduate Student Scholarship of China 
 
+Press
+======
+
+My reserch has been featured by many presses such as: Cambridge University  [(1)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(2)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(3)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(4)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), Financial Times, The Times, Forbes, Slate, Huffington Post, DailyMail, ITV, IEEE Spectrum, TheNextWeb, STAT, EPFL, TheScientist, The Register, KDnuggets, NPR/WBUR, Royal Society of Biology, Lancet Digital Health, Psychology Today, El Pais, RAI, Corriere della Sera, Focus, DerStandard
 
 Academic Service
 ======
@@ -61,11 +61,8 @@ and I also serve as an SPC for \
 •	AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ICLR 2024
 
 I am serving as [UbiComp 2022](https://ubicomp.org/ubicomp2022/organizing-committee/) Posters&Demos session chair. \
-I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024  
+I am co-organizing [Mobile and Wearable Health Seminar Series](https://talks.cam.ac.uk/show/archive/172414), University of Cambridge, 2023-2024  
 
-Non-Academic Services
-======
-Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
 
 Teaching
 ======
@@ -76,6 +73,18 @@ I am also passionate about supervising and I have been a teaching assistant for 
 •  Foundation of Data Science 2021 (Part IA, University of Cambridge) \
 •  AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture) \
 •  AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture) 
+
+Mentoring
+======
+I enjoy collaborating with PhD and thesis students, usually as part of an internship in our lab. Here are some recent research projects I supervised:
+•  Yuwei Evelyn Zhang  (University of Cambridge), MPhil dissertation: Exploring uncertainty quantification in federated learning for healthcare, 2022. This student was awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science \
+•  Alex Wang (University of Cambridge), Part II dissertation: A holistic evaluation of the quality of uncertainty from Bayesian model ensemble in federated learning, 2022   \
+
+
+Non-Academic Services
+======
+Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
+
 
 <!-- 
 
@@ -142,5 +151,10 @@ In previous years, I mainly focused on mining mobile big data with regard to sma
 2. Correlation and causality analysis of population mobility and health inequity
 3. Remote sensing for urban health
 
+• **Oct. 2023**: Our workshop FairComp at UbiComp2023 was completed with great success! \
+• **July 2023**: Congrats to Evelyn - the first MPhil I co-supervised, graduated with distinction and was awarded a commended dissertation award by the department. \
+• **April 2022**: Our COVID-19 Sounds team was awarded a “Better Future Award” in [Hall of Fame Awards 2021](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)! \
+• **Jan. 2022**: Our paper *Sounds of COVID-19: exploring realistic performance of audio-based digital testing* was accepted by **npj Digital Medicine!** (IF2021=15.357). \
+• **Oct. 2021**: A paper with a large-scale dataset and competitive benchmarks published in NeurIPS 2021 Datasets and Benchmark Track [paper](https://openreview.net/forum?id=9KArJb4r5ZQ). 
    
 -->
