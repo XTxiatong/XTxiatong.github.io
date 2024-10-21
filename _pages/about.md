@@ -17,7 +17,7 @@ Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the
  
 My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.
 
-Key worlds of my studies include respiratory audio, ECG, mobility, geolocations, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
+Key words of my studies include respiratory audio, ECG, mobility, geolocations, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
   
