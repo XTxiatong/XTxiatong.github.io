@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
->  Genuis only means hard-working all one’s life.
+>  Genuis only means hard-working all one’s life.\
 > –Mendeleyev
 
 Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of Prof. Cecilia Mascolo. I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by Prof. Yong Li. Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
@@ -64,7 +64,8 @@ I am also passionate about supervising and I have been a teaching assistant for 
 • Machine Learning & Real-World Data 2022(Part IA, University of Cambridge)\
 • Foundation of Data Science 2021 (Part IA, University of Cambridge)\
 • AI Research Project 2021, 2022 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology and Culture)\
-• AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture)\
+• AI in Medicine Project 2021 (China UK Development Centre, Cambridge Centre for the Integration of Science, Technology, and Culture)
+
 
 ## Mentoring
 I enjoy collaborating with PhD and thesis students, usually as part of an internship in our lab. Here are some recent research projects I supervised:\
