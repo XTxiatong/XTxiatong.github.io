@@ -13,10 +13,9 @@ redirect_from:
 
 Hi there! My name is [Tong Xia](https://mobile-systems.cl.cam.ac.uk/people.html), and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-My research span respiratory health, cardiovascular disease, urban health, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
+My research spans respiratory health, cardiovascular disease, urban health, and pandemics. Technologically, I focus on machine learning, including large language models (LLMs), foundation models, uncertainty quantification, privacy-preserving learning, and statistical methods such as clustering analysis, causal inference, and inequality quantification.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
-
 
 
 ## News
@@ -42,11 +41,11 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • 2014, National Undergraduate Student Scholarship of China
 
 ## Press
-Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), The Guardian, The Times, Forbes, 新智元, HyperAI超神经.
+Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436), [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g).
 
-Geoscience and public health: 时空大数据小组, 时空实验室
+Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw)
 
-Trustworthy AI: AI TIMER, 智隐数据星图
+Trustworthy AI: [AI TIMER](https://mp.weixin.qq.com/s/s3ZJuodSNLo1X3IdqtFmMA), [智隐数据星图](https://mp.weixin.qq.com/s/-1vFAxFLrps9K_ss9Mc3BQ)
 
 ## Academic Service
 I am a reviewer of\
