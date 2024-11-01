@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/tong_3.jpg"
+  avatar           : "https://github.com/XTxiatong/XTxiatong.github.io/images/tong_3.jpg"
   name             : "Tong Xia"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in Computer Science"
