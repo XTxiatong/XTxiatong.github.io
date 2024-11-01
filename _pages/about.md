@@ -11,7 +11,7 @@ redirect_from:
 >  Genuis only means hard-working all one’s life.\
 > –Mendeleyev
 
-Hi there! My name is Tong Xia, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of Prof. Cecilia Mascolo. I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by Prof. Yong Li. Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+Hi there! My name is [Tong Xia](https://mobile-systems.cl.cam.ac.uk/people.html), and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
 My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.
 
@@ -42,7 +42,7 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • 2014, National Undergraduate Student Scholarship of China
 
 ## Press
-Audio AI for health: Cambridge University (1), (2), (3), (4), BBC, The Guardian, The Times, Forbes, 新智元, HyperAI超神经.
+Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), The Guardian, The Times, Forbes, 新智元, HyperAI超神经.
 
 Geoscience and public health: 时空大数据小组, 时空实验室
 
