@@ -24,7 +24,7 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • October 2024: Our work Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking is accepted by Neurips dataset and benchmark track 2024 pdf Github!\
 • September 2024: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean’s Forum.\
 • July 2024: I gave a seminar at City University of Hong Kong link. \
-• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from here pdf \
+• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from here pdf 
 
 ## Awards
 • 2024, Rising Star in Women in Engineering at the Asian Dean’s Forum, Singapore \
@@ -39,7 +39,7 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • 2020, Outstanding Research Intern, Tencent, Beijing\
 • 2019, National Graduate Student Scholarship of China\
 • 2016, Intel Cup Embedded System Invitational Contest, National Third Prize\
-• 2014, National Undergraduate Student Scholarship of China\
+• 2014, National Undergraduate Student Scholarship of China
 
 ## Press
 Audio AI for health: Cambridge University (1), (2), (3), (4), BBC, The Guardian, The Times, Forbes, 新智元, HyperAI超神经.
@@ -55,7 +55,7 @@ and I also serve as an SPC for\
 • AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ML4H 2024\
 
 I am serving as UbiComp 2022 Posters&Demos session chair.\
-I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024\
+I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024
 
 ## Teaching
 I am also passionate about supervising and I have been a teaching assistant for the following undergraduate courses:\
@@ -70,7 +70,7 @@ I am also passionate about supervising and I have been a teaching assistant for 
 ## Mentoring
 I enjoy collaborating with PhD and thesis students, usually as part of an internship in our lab. Here are some recent research projects I supervised:\
 • Yuwei Evelyn Zhang (University of Cambridge), MPhil dissertation: Exploring uncertainty quantification in federated learning for healthcare, 2022. This student was awarded a commended dissertation award by the department - one of the 4 prizes awarded for dissertations in computer science.\
-• Alex Wang (University of Cambridge), Part II dissertation: A holistic evaluation of the quality of uncertainty from Bayesian model ensemble in federated learning, 2022\
+• Alex Wang (University of Cambridge), Part II dissertation: A holistic evaluation of the quality of uncertainty from Bayesian model ensemble in federated learning, 2022
 
 ## Non-Academic Services
 Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
