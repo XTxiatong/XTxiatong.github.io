@@ -13,11 +13,11 @@ redirect_from:
 
 Hi there! My name is [Tong Xia](https://mobile-systems.cl.cam.ac.uk/people.html), and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.
-
-Key words of my studies include respiratory audio, ECG, mobility, geolocations, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
+My research span respiratory health, cardiovascular disease, urban health, pandemics, LLMs, foundation models, uncertainty quantification, federated learning, reinforcement learning, and causality.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
+
+
 
 ## News
 • October 2024: Our pioneering work on leveraging LLMs for understanding audio and ECGs for healthcare will be presented at the NeurIPS 2024 workshop.\
@@ -74,3 +74,7 @@ I enjoy collaborating with PhD and thesis students, usually as part of an intern
 
 ## Non-Academic Services
 Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
+
+<!
+My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.
+--ddd-->
