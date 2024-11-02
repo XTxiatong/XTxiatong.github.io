@@ -74,4 +74,3 @@ I enjoy collaborating with PhD and thesis students, usually as part of an intern
 ## Non-Academic Services
 Since 2021, I have been a committee member of the UK Tsinghua Alumni Association (UKAT). Since 2022, I have been the leader of the publicity team and managed the official UKTA WeChat public account. In late 2023, I officially became the Vice Secretary-General of UKTA.
 
-<!My research focuses on leveraging data science and machine learning to advance healthcare applications. It spans two primary areas: (1) developing machine learning models for physiological data to enable intelligent precision medicine, and (2) analyzing and mining large-scale health data to improve public health outcomes at the population level.--ddd-->
