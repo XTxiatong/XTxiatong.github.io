@@ -13,7 +13,9 @@ redirect_from:
 
 Hi there! My name is [Tong Xia](https://mobile-systems.cl.cam.ac.uk/people.html), and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-My research spans respiratory health, cardiovascular disease, urban health, and pandemics. Technologically, I focus on machine learning, including large language models (LLMs), foundation models, uncertainty quantification, privacy-preserving learning, and statistical methods such as clustering analysis, causal inference, and inequality quantification.
+My research delves into sensing data, particularly data that can be widely collected by mobile and wearable devices, for applications in respiratory health, cardiovascular disease, urban health, and pandemic response.
+
+Technologically, I focus on machine learning, including large language models (LLMs), foundation models, uncertainty quantification, privacy-preserving learning, and statistical methods such as clustering analysis, causal inference, and inequality quantification.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
 
