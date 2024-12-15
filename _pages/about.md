@@ -21,11 +21,12 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 
 
 ## News
+• December 2024: I will be visiting Tsinghua University from the 16th to the 21st of December and giving a talk at the Vanke School of Public Health on the 17th [Link](https://mp.weixin.qq.com/s/RBekev3aH0OrCO_hbioUXA).\
 • October 2024: Our pioneering work on leveraging LLMs for understanding audio and ECGs for healthcare will be presented at the NeurIPS 2024 workshop.\
-• October 2024: Our work Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking is accepted by Neurips dataset and benchmark track 2024 pdf Github!\
+• October 2024: Our work Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking is accepted by Neurips dataset and benchmark track 2024 [website](https://opera-benchmark.github.io/)!\
 • September 2024: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean’s Forum.\
-• July 2024: I gave a seminar at City University of Hong Kong link. \
-• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from here pdf 
+• July 2024: I gave a seminar at City University of Hong Kong [link](https://www.ds.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges). \
+• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from [here] for pdf 
 
 ## Awards
 • 2024, Rising Star in Women in Engineering at the Asian Dean’s Forum, Singapore \
@@ -45,18 +46,22 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 ## Press
 Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436), [EngBio IRC](https://www.engbio.cam.ac.uk/files/media/digital_final_accelerating_research_impact_with_open_technologies.pdf), [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g).
 
-Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw)
+Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw), [数据科学与智能实验室论文解读](https://mp.weixin.qq.com/s?__biz=MzUzNjQwNzc0NA==&mid=2247490063&idx=1&sn=c9c83c8797b71c5a2a490f5654a881f6&chksm=fb572348bc3eb441a423e2ddf3a3dc9863862fed04502689e8eee98de89f91aabe3f6b4ed472&scene=126&sessionid=1734273324#rd), [数据科学与智能实验室论文解读](https://mp.weixin.qq.com/s?__biz=MzUzNjQwNzc0NA==&mid=2247485828&idx=1&sn=0dc3c805e72a24cfbb574625a6aefb05&chksm=faf7f22bcd807b3d2b5586bc5ee995cfd51a97e92fe2aaed4c2ff6b257e0fcb8198cecf6f6d7&scene=126&sessionid=1734273453#rd)
 
 Trustworthy AI: [AI TIMER](https://mp.weixin.qq.com/s/s3ZJuodSNLo1X3IdqtFmMA), [智隐数据星图](https://mp.weixin.qq.com/s/-1vFAxFLrps9K_ss9Mc3BQ)
 
 ## Academic Service
-I am a reviewer of\
+
+I am serving as UbiComp 2022 Posters&Demos session chair.\
+I am co-organizing Mobile and Wearable Health Seminar [Series](https://mobile-systems.cl.cam.ac.uk/seminars.html), University of Cambridge, 2023-2024\
+I serve as the associate editor of the journal *Frontiers in Digital Health (IF 3.2)* and the young scientistboard of the journal of *Medical Data Mining*z.\
+
+I am a reviewer of \
 • Lancet Regional Health-Europe, Nature Scientific Data, Nature Scientific Reports, IEEE TNSM, IEEE TMC, ACM TKDD, EPJ data science\
+
 and I also serve as an SPC for\
 • AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ML4H 2024\
 
-I am serving as UbiComp 2022 Posters&Demos session chair.\
-I am co-organizing Mobile and Wearable Health Seminar Series, University of Cambridge, 2023-2024
 
 ## Teaching
 I am also passionate about supervising and I have been a teaching assistant for the following undergraduate courses:\
