@@ -26,7 +26,7 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • October 2024: Our work Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking is accepted by Neurips dataset and benchmark track 2024 [website](https://opera-benchmark.github.io/)!\
 • September 2024: I have been nominated as a Rising Star in Women in Engineering at the upcoming Asian Dean’s Forum.\
 • July 2024: I gave a seminar at City University of Hong Kong [link](https://www.ds.cityu.edu.hk/news-event/seminars/ai-empowered-mhealth-pioneering-applications-and-overcoming-key-challenges). \
-• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from [here] for pdf 
+• Feb. 2024: I gave a guest lecture on Generative AI for mobile health, check from [here](https://www.cl.cam.ac.uk/teaching/2324/MH/Guest-Xia.pdf) for slides 
 
 ## Awards
 • 2024, Rising Star in Women in Engineering at the Asian Dean’s Forum, Singapore \
