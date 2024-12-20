@@ -14,68 +14,81 @@ author_profile: true
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Publications</title>
   <link rel="stylesheet" href="/assets/css/style.css"> <!-- 主样式文件 -->
-  <style>
-    /* 局部样式（可移到 style.css 中） */
-    .publication {
-      display: flex;
-      flex-direction: row;
-      align-items: flex-start;
-      margin-bottom: 2em;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 1em;
-    }
-    .publication img {
-      width: 120px;
-      height: auto;
-      margin-right: 20px;
-      border-radius: 5px;
-      object-fit: cover;
-    }
-    .publication-content {
-      flex-grow: 1;
-    }
-    .publication-title {
-      font-size: 1rem;
-      font-weight: bold;
-      margin-bottom: 0.5em;
-    }
-    .publication-authors {
-      font-size: 0.5rem;
-      color: #555;
-      margin-bottom: 0.5em;
-    }
-    .publication-meta {
-      font-style: italic;
-      font-size: 0.5rem;
-      color: #777;
-      margin-bottom: 1em;
-    }
-    .publication-description {
-      margin-bottom: 1em;
-      font-size: 0.5rem;
-      color: #333;
-    }
-    .publication-buttons a {
-      font-size: 0.8rem;
-      margin-right: 10px;
-      text-decoration: none;
-      padding: 5px 10px;
-      border: 1px solid #ddd;
-      border-radius: 3px;
-      color: #007bff;
-      background-color: #f9f9f9;
-    }
-    .publication-buttons a:hover {
-      background-color: #007bff;
-      color: white;
-    }
-    .publication-year {
-      font-size: 2rem;
-      font-weight: bold;
-      color: #ccc;
-      margin-left: 20px;
-    }
-  </style>
+<style>
+  /* 局部样式（可移到 style.css 中） */
+  .publication {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 1.5em; /* 减小每个 publication 之间的间隔 */
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1em;
+  }
+
+  .publication img {
+    width: 150px; /* 固定宽度 */
+    height: 120px; /* 固定高度 */
+    margin-right: 20px;
+    border-radius: 5px;
+    object-fit: cover; /* 保持图片比例裁剪 */
+  }
+
+  .publication-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* 调整文字上下布局以匹配图片高度 */
+  }
+
+  .publication-title {
+    font-size: 1rem; /* 标题字体大小为 16px */
+    font-weight: bold;
+    margin-bottom: 0.3em; /* 减小标题与作者之间的间距 */
+  }
+
+  .publication-authors {
+    font-size: 0.875rem; /* 作者字体大小为 14px */
+    color: #555;
+    margin-bottom: 0.3em;
+  }
+
+  .publication-meta {
+    font-style: italic;
+    font-size: 0.875rem; /* 元信息字体大小为 14px */
+    color: #777;
+    margin-bottom: 0.8em; /* 减小与下方描述的间距 */
+  }
+
+  .publication-description {
+    margin-bottom: 0.8em; /* 描述与按钮之间的间距 */
+    font-size: 0.875rem; /* 描述字体大小为 14px */
+    color: #333;
+  }
+
+  .publication-buttons a {
+    font-size: 0.75rem; /* 按钮字体大小为 12px */
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    color: #007bff;
+    background-color: #f9f9f9;
+  }
+
+  .publication-buttons a:hover {
+    background-color: #007bff;
+    color: white;
+  }
+
+  .publication-year {
+    font-size: 1.5rem; /* 调整年份大小为 24px */
+    font-weight: bold;
+    color: #ccc;
+    margin-left: 20px;
+  }
+</style>
+
 </head>
 <body>
   <div class="container">
