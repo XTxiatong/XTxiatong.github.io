@@ -37,3 +37,21 @@ a:hover {
     margin: 0 auto;
     padding: 20px;
 }
+
+.publication {
+  font-size: 14px; /* 设置整个 publication 的文字为 13px */
+}
+
+.publication-title {
+  font-size: 16px; /* 标题比正文稍大，保持层次 */
+}
+
+.publication-authors,
+.publication-meta,
+.publication-description {
+  font-size: 12px; /* 设置作者、元信息和描述为更小的字体 */
+}
+
+.publication-buttons a {
+  font-size: 11px; /* 调整按钮的字体大小 */
+}
