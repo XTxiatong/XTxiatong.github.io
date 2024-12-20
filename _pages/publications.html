@@ -5,31 +5,123 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
 
-Highlighted research projects:<br>
-1. Listen to health: acoustic AI for public respiratory health screening<br>
-   - Collected the largest respiratory audio dataset (NeurIPS'21) (shared with 400 institutes)<br>
-   - Designed the first audio-driven COVID-19 predicting model (KDD'20, NPJ Digital Medicine'22) (600+ citations)<br>
-   - Proposed the first open-source respiratory foundation model (NeurIPS'24)<br>
-2. Modelling Electrocardiograms for cardiovascular disease prediction<br>
-   - Contributed confidence-aware models to diagnose arrhythmia from wearable ECGs (IEEE JBHI'24)<br>
-   - Multi-modal LLMs for ECG interpolation<br>
-3. Mobility tracking and intervention for epidemic control<br>
-   - Proposed the first personal mobility data enhancement algorithm (AAAI'20)<br>
-   - Designed personalized mobility intervention strategy to mitigate infection risk (IEEE Big Data'22, KDD'23)<br>
-4. Urban environment and public health<br>
-   - Curated the first open dataset for environmental determinants of health (Scentific Data'23)<br>
-   - Using remote sensing to understand the urban environment that affects health (SIGSPATIAL'23)<br>
-   - Modelling and predicting of urban dynamics (UbiComp'19)<br>
-5. Decentralized machine learning for privacy-sensitive health data<br>
-   - Federated learing (KDD'24, ICASSP'23)<br>
 
-<div class="wordwrap">
-   You can also find my publications on 
-   <a href="https://scholar.google.com/citations?hl=en&amp;user=A7QsKzUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my Google Scholar profile</a>.
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications</title>
+  <link rel="stylesheet" href="/assets/css/style.css"> <!-- 主样式文件 -->
+  <style>
+    /* 局部样式（可移到 style.css 中） */
+    .publication {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-bottom: 2em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 1em;
+    }
+    .publication img {
+      width: 120px;
+      height: auto;
+      margin-right: 20px;
+      border-radius: 5px;
+      object-fit: cover;
+    }
+    .publication-content {
+      flex-grow: 1;
+    }
+    .publication-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      margin-bottom: 0.5em;
+    }
+    .publication-authors {
+      font-size: 0.9rem;
+      color: #555;
+      margin-bottom: 0.5em;
+    }
+    .publication-meta {
+      font-style: italic;
+      font-size: 0.85rem;
+      color: #777;
+      margin-bottom: 1em;
+    }
+    .publication-description {
+      margin-bottom: 1em;
+      font-size: 0.9rem;
+      color: #333;
+    }
+    .publication-buttons a {
+      font-size: 0.8rem;
+      margin-right: 10px;
+      text-decoration: none;
+      padding: 5px 10px;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      color: #007bff;
+      background-color: #f9f9f9;
+    }
+    .publication-buttons a:hover {
+      background-color: #007bff;
+      color: white;
+    }
+    .publication-year {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #ccc;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Projects</h1>
+    <p>(* Equal contribution)</p>
 
-{% endif %}
+    <!-- Publication item 1 -->
+    <div class="publication">
+      <img src="/path/to/image1.jpg" alt="Project Image">
+      <div class="publication-content">
+        <div class="publication-title">UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models</div>
+        <div class="publication-authors">Yuzhe Yang*, Yifei Zhang*, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, Mingcong Lei, Xiao Zhang, Haining Wang, Qianqian Xie, and 3 more</div>
+        <div class="publication-meta">arXiv preprint, 2024</div>
+        <div class="publication-description">A User-Centric framework designed to evaluate LLMs’ ability to handle complex financial tasks</div>
+        <div class="publication-buttons">
+          <a href="#">ABS</a>
+          <a href="#">ARXIV</a>
+          <a href="#">BIB</a>
+          <a href="#">HTML</a>
+          <a href="#">PDF</a>
+          <a href="#">CODE</a>
+        </div>
+      </div>
+      <div class="publication-year">2024</div>
+    </div>
 
-{% include base_path %}
+    <!-- Publication item 2 -->
+    <div class="publication">
+      <img src="/path/to/image2.jpg" alt="Project Image">
+      <div class="publication-content">
+        <div class="publication-title">FAST-CA: Fusion-based Adaptive Spatial-Temporal Learning with Coupled Attention for airport network delay propagation prediction</div>
+        <div class="publication-authors">Chi Li, Xixian Qi, Yuzhe Yang, Zhuo Zeng, Lianmin Zhang, and Jianfeng Mao</div>
+        <div class="publication-meta">Information Fusion, 2024</div>
+        <div class="publication-description">SOTA spatio-temporal model for predicting airport network delay propagation</div>
+        <div class="publication-buttons">
+          <a href="#">ABS</a>
+          <a href="#">BIB</a>
+          <a href="#">HTML</a>
+          <a href="#">PDF</a>
+        </div>
+      </div>
+      <div class="publication-year">2024</div>
+    </div>
+
+  </div>
+</body>
+</html>
+
+
