@@ -1,12 +1,22 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    color: #333;
-    line-height: 1.6;
-    background-color: #f9f9f9;
+    font-family: 'Open Sans', sans-serif; /* 清晰、易读的正文字体 */
+    font-size: 15px; /* 略大字号，适合宽屏阅读 */
+    color: #333; /* 深灰色文字，保护视力 */
+    line-height: 1.8; /* 更宽松的行间距，提升阅读舒适性 */
+    background-color: #ffffff; /* 白色背景，简洁干净 */
     margin: 0;
     padding: 0;
 }
+
+p {
+    margin-bottom: 1.6em; /* 段落之间增加空隙 */
+}
+
+ul, ol {
+    margin-bottom: 1.6em; /* 列表之间的间距 */
+    padding-left: 1.5em; /* 列表缩进 */
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
