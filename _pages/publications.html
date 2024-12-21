@@ -25,13 +25,15 @@ author_profile: true
     padding-bottom: 1em;
   }
 
-  .publication img {
-    width: 150px; /* 固定宽度 */
-    height: 120px; /* 固定高度 */
-    margin-right: 20px;
-    border-radius: 5px;
-    object-fit: cover; /* 保持图片比例裁剪 */
-  }
+.publication img {
+  width: 150px; /* 固定宽度 */
+  height: 120px; /* 固定高度 */
+  margin-right: 20px;
+  border-radius: 5px;
+  object-fit: contain; /* 保持图片完整显示 */
+  background-color: #f9f9f9; /* 可选：为图片的空白区域添加背景色 */
+  padding: 10px; /* 设置内边距，使图片与容器边框有一定间距 */
+}
 
   .publication-content {
     flex-grow: 1;
@@ -89,7 +91,7 @@ author_profile: true
   }
 
   .publication-page {
-  margin-top: 60px; /* 调整与导航栏的间距，数值可根据需求更改 */
+  margin-top: 20px; /* 调整与导航栏的间距，数值可根据需求更改 */
   padding-top: 20px; /* 可选：增加内部间距 */
 }
   
@@ -106,7 +108,7 @@ author_profile: true
       <img src="/images/papers/ML4H2024_RepsLLM.png" alt="Project Image">
       <div class="publication-content">
         <div class="publication-title">RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction</div>
-        <div class="publication-authors">Y Zhang, T Xia*, A Saeed, C Mascolo</div>
+        <div class="publication-authors">Y Zhang, <strong>T Xia</strong>*, A Saeed, C Mascolo</div>
         <div class="publication-meta">ML4H 2024, Vancouver, Canada</div>
         <div class="publication-buttons">
           <a href="https://opera-benchmark.github.io/blog/RespLLM">HTML</a>
