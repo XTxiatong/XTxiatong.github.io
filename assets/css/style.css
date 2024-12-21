@@ -39,7 +39,7 @@ a:hover {
     padding: 20px;
 }
 .container, main {
-  padding-top: 80px; /* 确保与导航栏的高度一致 */
+  padding-top: 90px; /* 确保与导航栏的高度一致 */
 }
 .navbar {
   position: fixed;
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .author__content p.author__bio {
-  font-size: 1rem; /* 调整简介的字体大小，例如 1.2rem = 19.2px */
+  font-size: 0.8rem; /* 调整简介的字体大小，例如 1.2rem = 19.2px */
   color: #555; /* 可选：调整字体颜色 */
 }
 
