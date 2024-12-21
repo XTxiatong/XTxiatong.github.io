@@ -50,3 +50,15 @@ a:hover {
   background-color: white; /* 确保导航栏背景不会透明 */
   border-bottom: 1px solid #ddd; /* 增加分隔线 */
 }
+
+.author__content h3.author__name {
+  font-size: 1.5rem; /* 调整名字的字体大小，例如 1.5rem = 24px */
+  font-weight: bold; /* 可选：加粗字体 */
+  margin-bottom: 0.5em; /* 调整名字与简介之间的间距 */
+}
+
+.author__content p.author__bio {
+  font-size: 1.2rem; /* 调整简介的字体大小，例如 1.2rem = 19.2px */
+  color: #555; /* 可选：调整字体颜色 */
+}
+
