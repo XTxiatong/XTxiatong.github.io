@@ -19,9 +19,9 @@ Hi there! My name is Tong, and I am a postdoctoral research associate in the Dep
 
 ## Research
 
-My research delves into *human-centric time sequence data*, particularly the sensory data that can be widely collected by mobile and wearable devices, for applications in respiratory health, cardiovascular disease, urban health, and pandemic response.
+My research focuses on *human-centric time series data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management.
 
-Technologically, I focus on machine learning, including large language models (LLMs), foundation models, uncertainty quantification, privacy-preserving learning, and statistical methods such as clustering analysis, causal inference, and inequality quantification.
+Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality quantification.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
 
