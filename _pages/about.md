@@ -19,7 +19,7 @@ Hi there! My name is Tong, and I am a postdoctoral research associate in the Dep
 
 ## Research
 
-My research delves into sensing data, particularly data that can be widely collected by mobile and wearable devices, for applications in respiratory health, cardiovascular disease, urban health, and pandemic response.
+My research delves into *human-centric time sequence data*, particularly the sensory data that can be widely collected by mobile and wearable devices, for applications in respiratory health, cardiovascular disease, urban health, and pandemic response.
 
 Technologically, I focus on machine learning, including large language models (LLMs), foundation models, uncertainty quantification, privacy-preserving learning, and statistical methods such as clustering analysis, causal inference, and inequality quantification.
 
