@@ -17,7 +17,7 @@ redirect_from:
 
 Hi there! My name is Tong, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-# Research
+## Research
 
 My research delves into sensing data, particularly data that can be widely collected by mobile and wearable devices, for applications in respiratory health, cardiovascular disease, urban health, and pandemic response.
 
