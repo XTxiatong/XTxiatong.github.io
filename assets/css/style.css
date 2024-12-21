@@ -39,7 +39,7 @@ a:hover {
     padding: 20px;
 }
 .container, main {
-  padding-top: 70px; /* 确保与导航栏的高度一致 */
+  padding-top: 80px; /* 确保与导航栏的高度一致 */
 }
 .navbar {
   position: fixed;
