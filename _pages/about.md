@@ -63,10 +63,20 @@ I am co-organizing Mobile and Wearable Health Seminar [Series](https://mobile-sy
 I serve as the associate editor of the journal *Frontiers in Digital Health (IF 3.2)* and the young scientistboard of the journal of *Medical Data Mining*.
 
 I am a reviewer of \
-• Lancet Regional Health-Europe, Nature Scientific Data, Nature Scientific Reports, IEEE TNSM, IEEE TMC, ACM TKDD, EPJ data science
+• Lancet Regional Health-Europe \
+• Nature Scientific Data and Scientific Reports\
+• IEEE TNSM, TMC\ 
+• ACM TKDD\
+• EPJ data science
 
 and I also serve as an SPC for\
-• AAAI 2020-2024, UbiComp 2019-2024, KDD 2019-2024, IJCAI 2021-2023, ICASSP 2022-2023, CHIL 2023-2024, ML4H 2024
+• AAAI 2020-2024\
+• UbiComp 2019-2024\
+• KDD 2019-2024\
+• IJCAI 2021-2023\
+• ICASSP 2022-2023\
+• CHIL 2023-2024\
+• ML4H 2024
 
 
 ## Teaching
