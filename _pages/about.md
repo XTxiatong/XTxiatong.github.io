@@ -65,7 +65,7 @@ I serve as the associate editor of the journal *Frontiers in Digital Health (IF 
 I am a reviewer of \
 • Lancet Regional Health-Europe \
 • Nature Scientific Data and Scientific Reports\
-• IEEE TNSM, TMC \ 
+• IEEE TNSM, TMC \
 • ACM TKDD\
 • EPJ data science
 
