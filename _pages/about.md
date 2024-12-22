@@ -60,12 +60,12 @@ Trustworthy AI: [AI TIMER](https://mp.weixin.qq.com/s/s3ZJuodSNLo1X3IdqtFmMA), [
 
 I am serving as UbiComp 2022 Posters&Demos session chair.\
 I am co-organizing Mobile and Wearable Health Seminar [Series](https://mobile-systems.cl.cam.ac.uk/seminars.html), University of Cambridge, 2023-2024\
-I serve as the associate editor of the journal *Frontiers in Digital Health (IF 3.2)* and the young scientistboard of the journal of *Medical Data Mining*.
+I serve as the associate editor of the journal *Frontiers in Digital Health (IF 3.2)* and the young scientist board of the journal of *Medical Data Mining*.
 
 I am a reviewer of \
 • Lancet Regional Health-Europe \
 • Nature Scientific Data and Scientific Reports\
-• IEEE TNSM, TMC\ 
+• IEEE TNSM, TMC \ 
 • ACM TKDD\
 • EPJ data science
 
