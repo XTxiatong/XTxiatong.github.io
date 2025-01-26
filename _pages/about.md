@@ -21,7 +21,7 @@ Hi there! My name is Tong, and I am a postdoctoral research associate in the Dep
 
 My research focuses on *human-centric time series data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management.
 
-Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality quantification.
+Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality discovery.
 
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
 
@@ -50,7 +50,7 @@ I am deeply passionate about utilizing AI to build a better future, particularly
 • 2014, National Undergraduate Student Scholarship of China
 
 ## Press
-Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436), [EngBio IRC](https://www.engbio.cam.ac.uk/files/media/digital_final_accelerating_research_impact_with_open_technologies.pdf), [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g).
+Audio AI for health: Cambridge University [(News)](https://www.cam.ac.uk/research/news/new-app-collects-the-sounds-of-covid-19), [(News)](https://www.cst.cam.ac.uk/news/your-phone-could-tell-us-if-you-have-coronavirus), [(Hall-fame-awards)](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards), [(News)](https://www.cst.cam.ac.uk/news/remote-monitoring-successfully-tracks-covid-19-progression-over-time), [BBC](https://www.bbc.co.uk/news/technology-52215290), [The Guardian](https://www.theguardian.com/world/2020/sep/21/what-is-persistent-cough-and-how-to-i-recognise-it-coronavirus-covid), [The Times](https://archive.ph/IRAX1), [Forbes](https://www.forbes.com/sites/marcwebertobias/2020/05/05/ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough/#144df95f5436), [EngBio IRC](https://www.engbio.cam.ac.uk/files/media/digital_final_accelerating_research_impact_with_open_technologies.pdf), [新智元](https://mp.weixin.qq.com/s/xtjl0skrN_KlXDk8CqzAqw), [HyperAI超神经](https://mp.weixin.qq.com/s/pC97usmnzZGzDua7nrXf-g), [AI TIME 论道](https://mp.weixin.qq.com/s/K6gtvEPPNGtEs0yKJC9RWg)
 
 Geoscience and public health: [时空大数据小组](https://mp.weixin.qq.com/s/EpeAkAsroxsZ86gq90PAJA), [时空实验室](https://mp.weixin.qq.com/s/1wytawD3p8-FMhwVWHNXkw), [数据科学与智能实验室论文解读](https://mp.weixin.qq.com/s?__biz=MzUzNjQwNzc0NA==&mid=2247490063&idx=1&sn=c9c83c8797b71c5a2a490f5654a881f6&chksm=fb572348bc3eb441a423e2ddf3a3dc9863862fed04502689e8eee98de89f91aabe3f6b4ed472&scene=126&sessionid=1734273324#rd), [数据科学与智能实验室论文解读](https://mp.weixin.qq.com/s?__biz=MzUzNjQwNzc0NA==&mid=2247485828&idx=1&sn=0dc3c805e72a24cfbb574625a6aefb05&chksm=faf7f22bcd807b3d2b5586bc5ee995cfd51a97e92fe2aaed4c2ff6b257e0fcb8198cecf6f6d7&scene=126&sessionid=1734273453#rd)
 
@@ -65,7 +65,7 @@ I serve as the associate editor of the journal *Frontiers in Digital Health (IF 
 I am a reviewer of \
 • Lancet Regional Health-Europe \
 • Nature Scientific Data and Scientific Reports\
-• IEEE TNSM, TMC \
+• IEEE TNSM, TMC, TC \
 • ACM TKDD\
 • EPJ data science
 
