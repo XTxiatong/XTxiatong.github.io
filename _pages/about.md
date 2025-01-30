@@ -26,7 +26,7 @@ Technologically, I specialize in 1) *data-efficient machine learning*, including
 I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
 
 
-## News
+## 📢 News
 • December 2024: I will be visiting Tsinghua University from the 16th to the 21st of December and giving a talk at the Vanke School of Public Health on the 17th [Link](https://mp.weixin.qq.com/s/RBekev3aH0OrCO_hbioUXA).\
 • October 2024: Our pioneering work on leveraging LLMs for understanding audio and ECGs for healthcare will be presented at the NeurIPS 2024 workshop.\
 • October 2024: Our work Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking is accepted by Neurips dataset and benchmark track 2024 [website](https://opera-benchmark.github.io/)!\
