@@ -9,13 +9,10 @@ redirect_from:
 
 
 
-
-
-
 >   Genuis only means hard-working all one’s life.\
 > –Mendeleyev
 
-Hi there 🤗! My name is Tong, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
+
 
 ##  📢 Annocement
 **I will be joining the Vanke School of Public Health at Tsinghua University as an Assistant Professor.**
@@ -26,9 +23,9 @@ We welcome applications from prospective PhD students, Master’s candidates, an
 
 ## 🎯 Bio
 
-My research focuses on *human-centric data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management.
+I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality discovery.  My passion lies in utilizing AI to build a better future—particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services worldwide.
+My research focuses on *human-centric data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management. Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality discovery.  My passion lies in utilizing AI to build a better future—particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services worldwide.
 
 
 ## 📢 News
