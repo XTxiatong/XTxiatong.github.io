@@ -17,7 +17,7 @@ redirect_from:
 ##  📢 Annocement
 **I will be joining the Vanke School of Public Health at Tsinghua University as an Assistant Professor.**
 
-My research group leverages ubiquitous sensing technologies to advance public health research and develop novel AI tools for affordable, large-scale health screening. Our mission is to make healthcare accessible and inclusive—ensuring *no one is left behind*.
+Research in my group will focus on leveraging ubiquitous sensing technologies to advance public health and develop novel AI tools for affordable, large-scale health screening. Our mission is to make healthcare accessible and inclusive—ensuring *no one is left behind*.
 
 We welcome applications from prospective PhD students, Master’s candidates, and interns. Our lab collaborates closely with leading institutions, including the University of Cambridge, Oxford, and Harvard. Interested applicants should email me with their CV attached.
 
