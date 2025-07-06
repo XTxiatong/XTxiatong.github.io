@@ -14,8 +14,7 @@ redirect_from:
 
 
 
-##  📢 Annocement
-**I will be joining the Vanke School of Public Health at Tsinghua University as an Assistant Professor.**
+##  📢 Annocement: I will be joining the Vanke School of Public Health at Tsinghua University as an Assistant Professor from Fall 2025.**
 
 Research in my group will focus on leveraging ubiquitous sensing technologies to advance public health and develop novel AI tools for affordable, large-scale health screening. Our mission is to make healthcare accessible and inclusive—ensuring *no one is left behind*.
 
