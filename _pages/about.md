@@ -17,16 +17,22 @@ redirect_from:
 
 Hi there 🤗! My name is Tong, and I am a postdoctoral research associate in the Department of Computer Science and Technology at the University of Cambridge, UK, where I got my PhD under the supervision of [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). I received my master’s degree from the Department of Electronics and Engineering, Tsinghua University, China, in 2020, supervised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/). Prior to that, I received my bachelor’s degree in Electronic and Information Engineering from Wuhan University, China, in 2017.
 
-## 🎯 Research
+##  📢 Annocement
+**I will be joining the Vanke School of Public Health at Tsinghua University as an Assistant Professor.**
 
-My research focuses on *human-centric time series data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management.
+My research group leverages ubiquitous sensing technologies to advance public health research and develop novel AI tools for affordable, large-scale health screening. Our mission is to make healthcare accessible and inclusive—ensuring *no one is left behind*.
 
-Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality discovery.
+We welcome applications from prospective PhD students, Master’s candidates, and interns. Our lab collaborates closely with leading institutions, including the University of Cambridge, Oxford, and Harvard. Interested applicants should email me with their CV attached.
 
-I am deeply passionate about utilizing AI to build a better future, particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services.
+## 🎯 Bio
+
+My research focuses on *human-centric data*, particularly sensory data that can be widely collected by mobile and wearable devices, with applications in public health, behavioral understanding, and urban management.
+
+Technologically, I specialize in 1) *data-efficient machine learning*, including self-supervised learning (SSL) foundation models and large language models (LLMs) ; 2) *trustworthy deep learning*, encompassing uncertainty quantification and privacy-preserving federated learning; and 3) *statistical methods*, such as clustering analysis, causal inference, and inequality discovery.  My passion lies in utilizing AI to build a better future—particularly in healthcare. I aspire for my research to enhance the efficiency, accessibility, and affordability of healthcare services worldwide.
 
 
 ## 📢 News
+• June 30, 2025: This is my last day in office at Cambridge. Everyone are welcome to jpin my farewell dinner tomorrow.
 • Feb. 2025: I am visiting *Beijing Zhongguancun Academy* from the 20th to the 28 of February and giving a talk titled *Building trustworthy AI for mobile health*.\
 • December 2024: I will be visiting Tsinghua University from the 16th to the 21st of December and giving a talk at the Vanke School of Public Health on the 17th [Link](https://mp.weixin.qq.com/s/RBekev3aH0OrCO_hbioUXA).\
 • October 2024: Our pioneering work on leveraging LLMs for understanding audio and ECGs for healthcare will be presented at the NeurIPS 2024 workshop.\
